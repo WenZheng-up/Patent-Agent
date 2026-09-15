@@ -1,0 +1,8 @@
+{
+  "case_id": "CN2026-0881",
+  "title": "真实演示案件（待 live 录制 + 人工核标签）",
+  "synthetic": false,
+  "status": "pending_recording",
+  "labels": {},
+  "notes": "R1 槽位：AMiner/LLM fixture 录制与 golden 人工核定完成前，run_eval 只报告缺录拦截，不得产出该案件的任何对比结论。"
+}
