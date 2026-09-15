@@ -1,0 +1,47 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+
+# ===== 凭证（任何情况下不入库）=====
+config.local.json
+**/config.local.json
+.env
+.env.*
+!.env.example
+
+# ===== 运行时数据 =====
+*.db
+*.db-journal
+*.sqlite
+backend/data/
+
+# 评测产物（fixtures 可由 scripts/record_fixtures.py 零成本重建）
+backend/eval/data/fixtures/
+backend/eval/data/runs/
+
+# ===== 工作/内部文档（非交付物）=====
+session-memory-patent-agent.md
+.screenshots/
+.trae-html-share-packages/
+
+# ===== 私有材料（本地工作文档，永不入库）=====
+private/
+docs/
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 日志
+*.log
+
