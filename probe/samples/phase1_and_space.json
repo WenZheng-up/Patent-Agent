@@ -1,0 +1,167 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6a074c3b4056542e917f2d30",
+      "title": null,
+      "title_zh": "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "丁雁"
+    },
+    {
+      "id": "6a0748b7e3842259137ef27b",
+      "title": null,
+      "title_zh": "一种基于双层相变材料和液冷板复合的动力电池热管理装置",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "斯林军"
+    },
+    {
+      "id": "6a074671511ebd61c77ecb2a",
+      "title": null,
+      "title_zh": "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "丁雁"
+    },
+    {
+      "id": "644156136c95a9e2faae7679",
+      "title": "Battery thermal management device of composite phase change material plate coupling liquid cooling",
+      "title_zh": "一种复合相变材料板耦合液冷的电池热管理装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "陈友鹏"
+    },
+    {
+      "id": "66bdafa0872314981b9c2859",
+      "title": "Power battery thermal management device based on            phase change material and grid-shaped fin liquid            cooling plate, has battery orderly arranged in middle            of battery box body along thickness direction, and            grid-shaped fin embedded in phase change material but            not contacted with battery.",
+      "title_zh": "一种基于相变材料和网格状翅片液冷板的动力电池热管理装置",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "杨化超"
+    },
+    {
+      "id": "65a5556e22f6ef170e79ced5",
+      "title": "Battery thermal management device based on            liquid-cooled phase-change material composite cold            plate in electric vehicle, has liquid cooling pipe            inserted into phase change material and filled with            coolant, and ultra-thin phase change material layer            formed between pipe and refrigerating plate frame.",
+      "title_zh": "基于液冷相变材料复合冷板的电池热管理装置及其控制方法",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "黄宇刚"
+    },
+    {
+      "id": "64df249cc555aedc927f3ee7",
+      "title": "Novel indirect contact type phase change material coupling fin tube battery liquid cooling plate heat dissipation device",
+      "title_zh": "一种新型的间接接触式相变材料耦合鳍片管的电池液冷板散热装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "张文骏"
+    },
+    {
+      "id": "644131136c95a9e2faade475",
+      "title": "Novel battery liquid cooling plate heat dissipation device of indirect contact type phase change material coupling finned tube",
+      "title_zh": "一种新型的间接接触式相变材料耦合鳍片管的电池液冷板散热装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "张文骏"
+    },
+    {
+      "id": "6a07489338b6d5c2a27eefc9",
+      "title": null,
+      "title_zh": "一种延缓热扩散液冷板系统及用电设备",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "冯睿"
+    },
+    {
+      "id": "6a07466ad14ade25717ecac0",
+      "title": null,
+      "title_zh": "一种双通道蛇形冷板耦合相变材料电池热管理系统",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "陈凯"
+    },
+    {
+      "id": "6a074b0cb5dee83ae07f1af3",
+      "title": null,
+      "title_zh": "一种阶梯式相变电池热管理系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "毛传玺"
+    },
+    {
+      "id": "6a0747ccbdd69c35637ee291",
+      "title": null,
+      "title_zh": "相变材料与液冷耦合的电池包分级热管理系统及方法",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "付灿灿"
+    },
+    {
+      "id": "66bdba40bc5a6d35f39c7fe8",
+      "title": null,
+      "title_zh": "一种液冷相变混合式电池热管理系统及其实现方法",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "陆彦"
+    },
+    {
+      "id": "6a074947d14ade25717efc44",
+      "title": null,
+      "title_zh": "一种新型电池模组热管理系统",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "王平"
+    },
+    {
+      "id": "6a074e08a412a1d1767f4cb7",
+      "title": null,
+      "title_zh": "一种电池包热管理用的热导板装置",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "袁晖"
+    },
+    {
+      "id": "6a074721026a01fd067ed748",
+      "title": null,
+      "title_zh": "一种具有多相变体系的热缓冲液冷均热装置及其制备方法",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "刘蒙"
+    },
+    {
+      "id": "64414ffb9b8d33474eae5cba",
+      "title": null,
+      "title_zh": "一种耦合式电池热管理系统及其优化设计方法",
+      "pub_year": "2025",
+      "app_year": "2022",
+      "inventor_name": "CHEN KAI"
+    },
+    {
+      "id": "682ac6dd6b94e856af5eadf1",
+      "title": null,
+      "title_zh": "一种液冷相变混合式电池热管理系统",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "陆彦"
+    },
+    {
+      "id": "6a074e01358a1abb587f4b1c",
+      "title": null,
+      "title_zh": "一种冷板式结合相变冷却的液冷服务器系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "宋先伟"
+    },
+    {
+      "id": "682ad17d6b0bb97add5ec945",
+      "title": null,
+      "title_zh": "一种电池组及相变材料耦合液冷复合热管理系统",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "周昊"
+    }
+  ]
+}

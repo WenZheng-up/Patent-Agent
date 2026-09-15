@@ -1,0 +1,167 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6a074b2edc4bc7b1557f1bae",
+      "title": null,
+      "title_zh": "复合相变材料及其制备方法",
+      "pub_year": "2026",
+      "app_year": "2024",
+      "inventor_name": "武乐园"
+    },
+    {
+      "id": "67e147a5127d69292ad507b9",
+      "title": null,
+      "title_zh": "胶囊型复合相变材料制备",
+      "pub_year": "2026",
+      "app_year": "2024",
+      "inventor_name": "马瑞"
+    },
+    {
+      "id": "6a0746c999dd4ca4a67ed12a",
+      "title": null,
+      "title_zh": "一种聚乙二醇/纳米二氧化硅复合相变材料的制备方法及复合相变材料",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "苏允兰"
+    },
+    {
+      "id": "6a074abd2fe5e731087f13f1",
+      "title": null,
+      "title_zh": "一种复合相变材料及其制备方法",
+      "pub_year": "2026",
+      "app_year": "2024",
+      "inventor_name": "李新喜"
+    },
+    {
+      "id": "633842e6667297566c30c8f3",
+      "title": null,
+      "title_zh": "复合相变材料及其制备方法",
+      "pub_year": "2025",
+      "app_year": "2020",
+      "inventor_name": "SHU LI"
+    },
+    {
+      "id": "6a074dd46d453de3a17f4778",
+      "title": null,
+      "title_zh": "复合相变材料制备系统及其反应釜",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "刘云汉"
+    },
+    {
+      "id": "6765bfb3c18cf3e9af9340c6",
+      "title": "High heat-conducting composite phase-change            material comprises heat-conducting filler, low melting            point solid resin, liquid resin, antioxidant, coupling            agent, flame retardant and tackifier.",
+      "title_zh": "一种高导热复合相变材料",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "付国瑞"
+    },
+    {
+      "id": "682ac6c06defeae4b85eadbb",
+      "title": null,
+      "title_zh": "一种复合相变材料及其制备方法",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "龚湛林"
+    },
+    {
+      "id": "6a074b83991e37fa0e7f2085",
+      "title": null,
+      "title_zh": "复合相变材料及其制备方法和应用",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "冯拥军"
+    },
+    {
+      "id": "6a074b8caa87747ad07f21ce",
+      "title": null,
+      "title_zh": "复合相变材料与微热管耦合散热模组",
+      "pub_year": "2026",
+      "app_year": "2026",
+      "inventor_name": "田飞雄"
+    },
+    {
+      "id": "66bdb38bd86ae3b9ee9c4e3f",
+      "title": null,
+      "title_zh": "一种碳化硅基复合相变材料的制备系统",
+      "pub_year": "2026",
+      "app_year": "2024",
+      "inventor_name": "孔祥飞"
+    },
+    {
+      "id": "67a73b3ea61c414450a4495e",
+      "title": "Composite phase change material comprises            solid-liquid phase change material located in pores of            porous material and porous material comprising porous            carbon, mesoporous silica, porous metal-organic            framework, copper foam, expanded graphite and graphene            aerogel.",
+      "title_zh": "一种复合相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "潘虹"
+    },
+    {
+      "id": "655d750a5040e83111e3159b",
+      "title": null,
+      "title_zh": "多功能复合相变材料及其制备方法和应用",
+      "pub_year": "2026",
+      "app_year": "2023",
+      "inventor_name": "李保安"
+    },
+    {
+      "id": "6a0746dfd74878862e7ed2fa",
+      "title": null,
+      "title_zh": "一种复合相变材料及其制备方法与应用",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "贾安康"
+    },
+    {
+      "id": "6a0749f0991e37fa0e7f066a",
+      "title": null,
+      "title_zh": "光热储热复合相变材料及其制备方法",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "王会"
+    },
+    {
+      "id": "6a074ece9663a984097f5743",
+      "title": null,
+      "title_zh": "一种木基复合相变材料及其制备方法",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "盛春"
+    },
+    {
+      "id": "6a074861dc1284937f7eec29",
+      "title": null,
+      "title_zh": "一种高稳定性复合相变材料及其制备方法",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "姚主滨"
+    },
+    {
+      "id": "65dcb9c0c2d57fa01d150524",
+      "title": "Composite phase change material comprises            pentavalent nitrate and magnesium oxide.",
+      "title_zh": "复合相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "李传"
+    },
+    {
+      "id": "6765c0490df7b22fcc93447a",
+      "title": "Composite material used in e.g. photothermal            conversion application, comprises polyurethane            framework and nano molybdenum disulfide distributed in            polyurethane framework.",
+      "title_zh": "一种复合相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "蒋昊洋"
+    },
+    {
+      "id": "6a074d79bdd69c35637f4309",
+      "title": null,
+      "title_zh": "一种复合相变材料及其制备方法和应用",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "谭心"
+    }
+  ]
+}

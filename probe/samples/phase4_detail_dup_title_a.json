@@ -1,0 +1,324 @@
+{
+  "code": 200,
+  "success": true,
+  "msg": "",
+  "data": [
+    {
+      "abstract": {
+        "en": [
+          "The invention discloses a kind of phase-change accumulation energy liquid cooling plate, battery pack active thermal management system and control methods, including battery modules, temperature sensor, phase-change accumulation energy liquid cooling plate, heat-conducting glue, battery management system, accelerator open degree sensor, braking jaw opening sensor, velocity sensor, temperature sensor control harness, power supply harness, other sensors harness, control valve to control harness, control valve, water pump；Battery modules are connect with phase-change material energy storage liquid cooling plate by thermally conductive adhesivity, and phase-change accumulation energy liquid cooling plate and mould group are connected with temperature sensor, and temperature sensor is connected with battery management system by controlling harness；Accelerator open degree sensor, braking jaw opening sensor, velocity sensor are connected with battery management system by controlling harness；The information that battery management system is transmitted according to sensor controls water pump and control valve, to control the whole temperature rise of battery pack, increases battery pack consistency；The present invention has flexibility ratio height, good heat dissipation effect, adaptable feature."
+        ],
+        "zh": [
+          "本发明公开了一种相变储能液冷板、电池包主动热管理系统及控制方法，包括电池模组、温度传感器、相变储能液冷板、导热胶、电池管理系统、油门开度传感器、制动开度传感器、速度传感器、温度传感器控制线束、电源线束、其他传感器线束、控制阀控制线束、控制阀、水泵；电池模组与相变材料储能液冷板通过导热胶粘性连接，相变储能液冷板以及模组与温度传感器相连，温度传感器与电池管理系统通过控制线束相连；油门开度传感器、制动开度传感器、速度传感器与电池管理系统通过控制线束相连；电池管理系统根据传感器传来的信息，控制水泵以及控制阀，用以控制电池包的整体温升，增加电池包一致性；本发明具有灵活度高，散热效果好，适应性强的特点。"
+        ]
+      },
+      "app_date": {
+        "seconds": 1537977600
+      },
+      "app_kind": "A",
+      "app_num": "201811132449",
+      "applicant": [
+        {
+          "name": "UNIV JIANGSU",
+          "sequence": 1
+        }
+      ],
+      "assignee": [
+        {
+          "name": "UNIV JIANGSU",
+          "sequence": 1
+        }
+      ],
+      "auth_date": {
+        "seconds": 1551974400
+      },
+      "auth_num": "109449528",
+      "country": "cn",
+      "cpc": [
+        {
+          "l1": "Y",
+          "l2": "Y02",
+          "l3": "Y02E",
+          "l4": "Y02E60/10",
+          "raw": "Y02E60/10"
+        },
+        {
+          "l1": "Y",
+          "l2": "Y02",
+          "l3": "Y02T",
+          "l4": "Y02T10/70",
+          "raw": "Y02T10/70"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/625",
+          "raw": "H01M10/625"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/617",
+          "raw": "H01M10/617"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6567",
+          "raw": "H01M10/6567"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/613",
+          "raw": "H01M10/613"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6556",
+          "raw": "H01M10/6556"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/635",
+          "raw": "H01M10/635"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M2220/20",
+          "raw": "H01M2220/20"
+        }
+      ],
+      "description": {
+        "en": [
+          "Technical Field This invention relates to rail traffic technical field of the cell module, and in particular relates to a phase-change cold plate, battery pack active thermal management system and control method. Background Art The present domestic and foreign city rail transportation vehicles using electric power supply, the power supply system is DC 750 V and DC 1500 V. In the event of failure, will lead to the traction power supply interruption, of the city of the rail traffic operation quality, cause the operating losses. The rail car loading emergency traction battery module system, in the case of a failure in the vehicle, train into emergency self-traction mode, depending on the configuration of the emergency traction battery module system will train to the recent site. Because the battery module as a major emergency towing sources, high power, high voltage class, so the battery module thermal management is particularly important. The battery module in the discharge under the condition of large rate, cell to generate a great amount of heat, at the same time internal to the structure of the battery module, all battery cells of the differences between the rates of temperature rise, when the work for a long time, part of the battery temperature is too high, the internal temperature of the battery module at the same time difference is too large, will make the battery module and the integral service performance and reduced service life. In order to ensure that the battery module can work normally, and prolonging the service life and ensure work performance, battery module of the importance of the heat dissipation system. Now for the emergency traction battery module system dissipating way battery module with the electric automobile more akin to the radiating mode, because the discharge rate and large reasons, the heat dissipation is the mainstream of the liquid-cooled . In the battery module arrangement fluid through the lower part of the cold plate, the cold plate coolant battery to take away the heat transfer to the liquid of the cold plate, to realize the cooling of the battery module, but the current structure form is fixed, the size of the can adjust the flow rate only, not according to the battery module real-time changes of the temperature distribution of the heat dissipation efficiency of the adjustment, the single heat radiating mode, namely a high-temperature region is unable to local to enhance heat, resulting in low heat dissipation efficiency, because the change of the working condition could not be caused by the high temperature of the battery control at the suitable temperature range, while at the same time battery module heat balance difference, so that the battery performance and the service life is limited. Patent CN105742693A, date of Publication 6 July 2016, the name of this invention is to create a high-security lithium ion battery module, the application discloses a high safety of the lithium ion battery module, its weak point is: 1, the invention Patent discloses a high-safety of the lithium ion battery module the liquid cooling device can not according to the battery module of the real-time temperature distribution adjusting heat dissipation efficiency; 2, the battery heat radiation to a certain temperature value required for a longer time. Patent CN201510584799.8, date of Publication 23 December 2015, the name of this invention is to create a battery water-cooling radiator, the application discloses a battery water-cooling radiator, its weak point is liquid-cooled plate-to-battery module to dissipate heat, but in the form of structure is fixed, the temperature of the battery module is unable to follow the real-time change of the adjustment of the heat efficiency, thereby reducing the heat balance of the battery. Content of the invention In view of this, the purpose of this invention is to provide a phase-change cold plate, battery pack active thermal management system and control method, for train emergency traction battery module system the normal operation when the heat radiation, in order to guarantee the battery module when in operation is always in the optimum discharge temperature interval, improve the battery module of the , guarantee a track to train emergency traction battery module in the use of system performance and service life. To achieve the above object, the present invention provides the following technical solution: a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system, comprising: electrical system, cooling system, the electrical system comprises a battery module, the temperature sensor, the temperature sensor controls the harness, battery management system, the power supply harness, battery, control harness, an accelerator opening sensor, brake opening sensor, speed sensor, other sensor harness, control valve control harness, the cooling system comprises a control valve, phase change cold plate, a water circulation pipe, radiator, water storage tank, water pump, heat conductive glue. A plurality of module and the phase change material cold plate through the heat conducting glue the stickiness of the connection, the heat conducting glue not only as an insulating material but also as a high-efficiency heat conduction device; the phase-change material cold plate and module connected with the temperature sensor, the temperature sensor and the battery management system through the control harness connected; an accelerator opening sensor, brake opening sensor, speed sensor and a battery management system through the control harness connected; the battery through the power supply wiring harness to the battery management system, a temperature sensor, an accelerator opening sensor, brake opening sensor, speed sensor power supply; the battery management system according to the information transmitted by the sensor, to control the water pump and the control valve, in order to control the overall temperature rise of the battery pack, the battery pack consistency increase; this system has high flexibility, good heat dissipation effect, and strong adaptability. At the same time, phase-change cold plate with the control valve, the control valve and the phase-change cold plate, the cold plate with phase change radiator, the radiator and the water reservoir, the water reservoir and the water pump, the water pump and the phase change connected through the circulating water pipe between the cold plate, the cooling liquid flowing in the circulation system; the battery management system through the control valve control harness, water pump control harness, radiator control harness and control valve, water pump, connected with the radiator; at the same time control valve, water pump, radiator through the power supply wiring harness is connected with the battery. A plurality of battery module around the glue stick, through the glue adhesive connection; the connection of the battery to the module and the heat conducting inlaid arranged in the phase-change between the cold plate, through the glue between the two viscous and fixed, the temperature sensor is fixed in each battery module which does not depend on phase change cold plate at one side of the heat conductive glue on the surface, through the temperature sensor control harness the battery module detailed temperature data is transmitted to the battery management system, the battery through the power supply wiring harness and the battery management system; Phase change cold plate, the heat conducting glue and a plurality of battery module between the viscous firmly connected by glue, no gap; heat conductive glue with waterproof insulation and heat conduction characteristic of the firm, in the first instance as a battery module and a phase change cold plate between the adhesive for fixing; secondly thanks to its high thermal conductivity, as a battery module and a phase change of the heat transfer between the cold plate channel; finally with sufficient strength and stiffness, heat conducting adhesive can be effectively used as a battery module with the phase-change cold plate between the support structure and, prevent the battery module in the phase-change cold plate between the unstable structure; Phase change cold plate has sufficient structural strength and efficient heat conduction coefficient, first as a battery module heat out channel; secondly, as the structural support member, to maintain the stability of the structure of the system; At the same time the battery management system through the other sensor control harness of the throttle sensor, brake opening sensor, speed sensor connected; at the same time the battery management system through a control wiring harness and the control valve, are respectively connected to the water pump, to realize the control of the control valve and the water pump, the water pump and the phase change cold plate, the cold plate and the powder control valve phase change , phase change cold plate with the radiator, the radiator with a water storage device, between the storage device and the water pump are connected respectively through the liquid-cooled pipe. At the same time, in the present invention said phase change cold plate including a coolant, the separator plate, the shell , phase-change material. Phase change cold plate shell is composed of aluminum alloy or other light of a high heat conductivity material, internal to the partition is divided into two layers, wherein the upper layer is the coolant flow area, the lower the phase change material is closed, by the water-proof insulating heat conducting partition made of material, with phase-change cold plate fixed to the surface of the interior of the housing; the housing is provided with coolant inlet and outlet. The above-mentioned plurality of battery module, glue, cold plate is flush with the lower surface of the phase-change (to Figure 1 pelagic , battery module is the reference, corresponding lower layer and battery module is flush); The combination of the upper end of the battery module of the cold plate based on phase change radiating system, this invention offers the following control method: The battery management system detected by the temperature sensor of each battery module temperature, combined with the accelerator opening degree sensor, brake opening sensor, speed sensor data and battery module suitable working temperature range judging whether there is a battery module to achieve the heat dissipation requirements, if so, then the battery management system control control valve is opened, water pump open to the cooling fluid circulation, the heat radiator open to the liquid coolant; At the same time address does not need to perform the heat dissipation of the battery module, the battery module corresponding to the closing of the control valve, that is without need of heat sink of the corresponding battery module below the flow path is sealed; The battery management system further through the temperature sensor to the need of heat dissipation of the battery module temperature distribution analysis, judging the need of heat dissipation of the height of the battery module in the interior of the temperature distribution, further computational analysis the optimum heat radiation efficiency of the control valve switch situation, through different battery module corresponding to the closing of the control valve and the flow rate control of the water pump, to achieve the best efficiency of heat exchange. After the commencement of the heat dissipation, the battery management system by the temperature sensor is the need of heat dissipation of the real-time monitoring of the temperature change of the battery module, according to the temperature of the time when the state of variation in real time the optimum heat radiation efficiency of the inner shape of the flow path of the analysis, real-time to the closing of the control valve and the flow velocity of the control of the water pump, thereby flowing through the real-time control of the flow passage, the heat radiating efficiency is always kept in the best state; The real-time control of the flow channel, and the heat radiation efficiency is always kept in the best state method is adopted when the: throttle is collecting data a, b brake opening data, speed data g and battery module temperature data t1 , T2 , T3 , T4 , T5 , T6 , The acquired accelerator opening data a, b brake opening data, speed data and temperature data t gi Are respectively acceleration operation, obtain the throttle acceleration a (a), brake opening acceleration a (b) and vehicle acceleration a (g); a throttle opening degree to the acceleration (a) and vehicle acceleration a (g) respectively differential operation, and calculate the differential ratio of the two da (a)/da (g); the specific control strategy and working mode includes the following situation: 1) Mode a: {Max {t1 , T2 , T3 , T4 , T5 , T6 } ≤ T upper temperature limit 1st threshold0 } ∩ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 } ≤ T 1st threshold upper limit temperature difference1 }; 2) Mode II: {{Max {t1 , T2 , T3 , T4 , T5 , T6 }>1St threshold T upper temperature limit0 } ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>Temperature difference limit 1st threshold T1 }} ∩ {{da (a)/da (g) X>1 } ∪ {a (b)>Y1 }}; 3) Mode three: {{ {Max {t1 , T2 , T3 , T4 , T5 , T6 }>1St threshold T upper temperature limit0 } ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>Temperature difference limit 1st threshold T1 }} ∩ {Max {t3 , T4 }>Max {t1 , T2 , T5 , T6 }}} ∩ {{da (a)/da (g) X>1 } ∪ {a (b)>Y1 }}; 4) Mode four: {Max {t1 , T2 , T3 , T4 , T5 , T6 }>2Nd threshold T upper temperature limit0 '} ∪ {da (a)/da (g) X>1 '} ∪ {a (b)>Y1 '} ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>2Nd threshold T temperature difference limit1 '} X1 ' Said throttle opening acceleration with the acceleration differential ratio 2nd threshold, Y1 ' Said 2nd brake opening acceleration threshold; X1 Said throttle opening acceleration with the acceleration differential ratio 1st threshold, Y1 Said 1st brake opening acceleration threshold; t1 , T2 , T3 , T4 , T5 , T6 Said module (1) in the temperature of the six module (to Figure 11 of the battery shown in profile). Wherein X1 , Y1 , X1 ', Y1 ', T0 , T1 , T0 ', T1 ' Value through the experiment to obtain, according to the working condition of the NEDC test condition and a real, real-time detection of the throttle, brake opening, speed and each die set temperature value, and then determining the above-mentioned threshold size. Wherein X1 Generally in the range of 0.7 - 0.85; Y1 Generally 1.744 rad/s2 ; X1 ' Roughly in the range of 0.95 - 1.05; Y1 ' Approximately 3.75 rad/s2 ; T0 Generally in the range of 40 - 42 °C; T1 Approximately 3 °C; T0 ' Roughly in the range of 50 - 52 °C; T1 ' Is roughly 6 °C. When judging the battery package is in the mode for the time being, a control valve, the control valve b, the control valve c closed, according to the multi-source sensor fusion data (the accelerator opening degree, the brake opening, speed and temperature of the battery) to the water pump and the radiator of the real-time control, let water pump in 5% -25% flow opening, heat sink retention in 5% -25% between the rotational speed of the fan, to maintain the temperature of the battery in the best interval, to realize the real-time control of the temperature of the battery pack; When the triggering condition satisfies the mode two, pattern three, four of the condition request mode, radiating start, the battery management system according to the real-time multi-source sensor fusion data (the accelerator opening degree, the brake opening, speed and temperature of the battery) state of variation at the time of judging the battery package the mode, first control valve opening-closing control, conversion corresponding to the mode of internal cooling fluid flows through the battery pack, then the optimum heat radiation efficiency when the flow rate of the pump and of the radiator wind speed the best parameter combined analysis, real-time control of the water pump and radiator. Thus flow through the flow passage, the velocity of water flow and the heat dissipation wind speed real-time control, the efficiency of heat radiating is always kept in the best state. And, the battery management system according to the real-time multi-source sensor fusion data (the accelerator opening degree, the brake opening, speed and temperature of the battery), the comprehensive judging the battery package at the position of the mode, when judging the battery package for mode for the time being, heat dissipation is completed, a control valve, the control valve b, the control valve c closed, to control the water pump in 5% -25% flow opening, heat sink retention in 5% -25% between the rotational speed of the fan, so that the battery pack is reset to the initial state of the internal flow path; when judging the battery package is in mode two, pattern three, when mode IV, continuing the above-mentioned way to dissipate heat. Compared with the prior art, this invention has the following effects: (1) The invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method according to the battery module of the change of the real-time temperature distribution and the accelerator opening degree, the opening degree of the brake, speed size to dissipate the heat efficiency adjustment, can be targeted to improve the accurate heat dissipation capacity. (2) The invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method to make the cell module the required time is greatly reduced, thus greatly improves the battery module of the performance and the service life. Before the battery pack cooling system most fixed heat dissipation mode (fixing several water pump flow or heat dissipation wind speed and the like), the present invention provides a radiating system through the division of the four modes, according to the sensor data to predict battery reforms of the heat situation, early real-time adjustment of the flow rate of the pump, and water flows through the radiator wind speed, can be greatly improved heat radiation efficiency of the battery, to shorten the time of the heat dissipation of the battery package. (3) The invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method of the internal temperature difference control in the battery module within the scope of the relatively small, improve the heat balance of the battery module. On the same, before the battery pack cooling system mostly adopt the fixed heat dissipation mode (fixing several water pump flow or heat dissipation wind speed and the like), the present invention provides a radiating system through the division of the four modes, according to the sensor data to predict battery reforms of the heat situation, early real-time adjustment of the flow rate of the pump, and water flows through the radiator wind speed, can be greatly improved heat radiation efficiency of the battery, and the heat conducting glue can be very good to derive heat from the battery module in the cold plate to the phase change , improve the heat balance of the battery module. (4) The invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and the control method in the phase-change material confined in the , prevent the phase-change material phase lead to changes in the system the occurrence of the instability of the structure, and through the coolant will phase change material absorbs heat conduction out, greatly increases the heat dissipation efficiency. (5) The invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method adopts the heat conductive glue used as highly efficient heat conducting material and adhesive material, is placed in the battery module and a phase change between the cold plate, the cold plate to avoid phase change direct contact with the die set of the battery caused by the problem of reduction of the value of; ensures the stability of the structure; and improving the heat conduction efficiency. Description of drawings Figure 1 is the cell module system diagram of the embodiment of the invention to provide Figure 2 is the battery module and the heat conducting glue assembly drawing of the embodiment of the invention to provide Figure 3 is the battery module phase change cold plate three-dimensional map of the embodiment of the invention to provide Figure 4 is the cell module system over-looking system chart of the embodiment of the invention to provide Figure 5 is the battery module phase change cold plate overlooking the cutaway view of the embodiment of the invention to provide Figure 6 is the cell module system working flow chart of the embodiment of the invention to provide Figure 7 is the mode a fluid cold flow chart of an embodiment of the invention Figure 8 is the mode two liquid cooling flow channel chart of the embodiment of the invention to provide Figure 9 is the mode three-liquid cooling flow channel chart of the embodiment of the invention to provide Figure 10 is the mode IV fluid cold flow chart of an embodiment of the invention Figure 11 is a schematic view of the present invention cell distribution. Wherein: 1 - battery module, 2 - phase change cold plate, 3 - glue, 4 - control valve a, 5 - control valve b, 6 - control valve c, 7 - control valve d, 8 - temperature sensor a, 9 - temperature sensor b, 10 - temperature sensor c, 11 - temperature sensor d, 12 - temperature sensor e, 13 - temperature sensor f, 14 - coolant, 15 - phase-change material, 16 - water pump, 17 - the battery management system, 18 - battery, 19 - speed sensor, 20 - throttle opening sensor, 21 - brake opening sensor, 22 - radiator, 23 - water, 24 - the circulating water pipe, 25 - temperature sensor control harness, 26 - power supply harness, 27 - other sensor harness, 28 - control valve control harness, 29 - partition, 30 - liquid cold plate housing, 31 - water pump control harness, 32 - radiator control harness. Mode of execution The embodiment of the invention discloses a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method, for train emergency traction battery module system, can ensure the emergency traction battery module system operates in the best temperature range. The combination of the lower portion of the embodiment of the invention in the Figure, in the present embodiment of the invention the technical proposal a clear, and complete description, obviously, the embodiment described is only a portion of the embodiment of this invention, not all of the examples. In this invention based on the embodiment of the, ordinary skill in the art in the creative work did not obtained under the premise of other embodiments, all belong to the scope of protection of the present invention. As shown in Figure 1 and Figure 4 shown, the embodiment of the invention to provide based on the phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method comprises the electrical system, the cooling system, the electrical system comprises a battery module 1, temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13, temperature sensor control harness 25, battery management system 17, the power wiring harness 26, battery 18, throttle opening sensor 20, the brake opening sensor 21, speed sensor 19, other sensor harness 27, control valve control harness 28, the cooling system includes a control valve a4, control valve b5, control valve c6, control valve d7, phase change cold plate 2, a circulating pipe 24, radiator 22, water storage tank 23, a water pump 16, a heat conducting glue 3. The phase-change material cold plate 2 and battery module 1 with the temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 connected, temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 battery management system 17 through temperature sensor control harness 25 connected; at the same time the battery management system 17 through the other sensor control harness 27 and throttle opening sensor 20, the brake opening sensor 21, the speed sensor 19 is connected to the; battery 18 through the power supply wiring harness 26 to the battery management system 17, temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13, throttle opening sensor 20, the brake opening sensor 21, speed sensor 19 power supply; the battery management system 17 according to the information transmitted by the sensor, to control the water pump 16 and control valve a4, control valve b5, control valve c6, control valve d7, in order to control the overall temperature rise of the battery pack, the battery pack consistency increase; this system has high flexibility, good heat dissipation effect, and strong adaptability. At the same time, the battery management system 17 through the control valve control harness 28 and control valve a4, control valve b5, control valve c6, control valve d7, water pump 16 are respectively connected, to realize the control valve a4, control valve b5, control valve c6, control valve d7, water pump 16 to control the work of, the water pump 16 and the phase-change cold plate 2, phase-change cold plate 2 and control valve a4, control valve b5, control valve c6, control valve d7, phase change cold plate 2 with the radiator 22, radiator 22 with a water storage device 23, the water reservoir 23 to the water pump 16 are respectively between the circulating pipe 24 is connected, the cooling liquid 14 in the recycling system flow; at the same time control valve a4, control valve b5, control valve c6, control valve d7, water pump 16 through the power supply wiring harness 26 and the accumulator 18 is connected. As shown in Figure 2, a plurality of battery module 1 four-week glue stick 3, through the glue 3 adhesive connection; heat conductive glue 3 has a water-proof insulating heat conducting characteristic of the firm, first as a battery module 1 and the phase-change cold plate 2 between the adhesive for fixing; secondly thanks to its high thermal conductivity, as a battery module 1 and the phase-change cold plate 2 of the heat transfer between the channel; finally with sufficient strength and stiffness, heat conductive glue 3 can be effectively used as a battery module 1 and the phase-change cold plate 2 between the support structure and, prevent the battery module 1 and the phase-change cold plate 2 between the unstable structure; As shown in Figure 3 and Figure 5 shown, in the present invention said phase change cold plate 2 comprises a cooling liquid 14, the partition plate 29, liquid cold plate housing 30, the phase change material 15. Phase change cold plate 2 a similar \"mountain\" shaped, \"mountain means\" there are several, the connection of the battery to the module 1 and heat conduction glue 3 is embedded in the cold plate arrangement of the phase-change 2 between the mountain means, two by two between the glue 3 viscous and fixed, temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 fixed in each battery module 1 does not depend on phase change cold plate 2 on one side of the glue 3 on the surface, through the temperature sensor controls the harness 25 the battery module 1 of the details of the temperature data is transmitted to the battery management system 17, battery 18 through the power supply wiring harness 26 with the battery management system 17 connected; phase change cold plate housing 30 made of aluminum alloy and the like light of a high heat conductivity material, phase change cold plate 2 inside of the partition plate 29 is divided into two layers, the upper layer is a cooling fluid 14 flowing area, the lower layer is a closed phase change material 15, a partition plate 29 by the water-proof insulating heat conducting material made, with phase-change cold plate housing 30 of the inside surface is fixed. Phase change cold plate 2 has sufficient structural strength and efficient heat conduction coefficient, first as a battery module 1 derives the channel of heat; secondly, as the structural support member, to maintain the stability of the structure of the system; The above-mentioned plurality of battery module 1, heat conductive glue 3, phase-change cold plate 2 is flush with the lower surface; As shown in Figure 6, the embodiment of the invention provides a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method is as follows: battery management system 17 through temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 detection of each battery module 1 temperature, by the throttle opening degree sensor 20 for detecting the accelerator opening degree, through the brake opening sensor 21 for detecting the opening degree of the brake pedal, through the speed sensor 19 detecting speed, combining battery module 1 of suitable working temperature range to judge whether there is a battery module 1 to achieve the heat dissipation requirements. The collection is in monitoring equipment throttle opening data a, b brake opening data, speed data g and 6 the temperature data of the battery module t1 , T2 , T3 , T4 , T5 , T6 , The acquired accelerator opening data, brake opening data, speed data and temperature data of the acceleration operation, the throttle opening degree of the obtained acceleration a (a), brake opening acceleration a (b) and the acceleration a (g); a throttle opening degree to the acceleration (a) and acceleration a (g) respectively differential operation, and calculate the differential ratio of the two da (a)/da (g). As shown in Figure 7, if it does not exceed the battery module 1 of suitable working temperature range, then the system is in the mode state, the battery management system 17 control valve d7 open, water pump 16 open, to cooling liquid 14 circulation, radiator 22 open to the cooling liquid 14 to dissipate heat. The reference threshold value as follows: {Max {t1 , T2 , T3 , T4 , T5 , T6 } ≤ T upper temperature limit 1st threshold0 } ∩ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 } ≤ T 1st threshold upper limit temperature difference1 } As shown in Figure 8, when the detected data meet and reach the mode two starting condition, the battery management system 17 control valve a4, control valve d7 open, water pump 16 open, to cooling liquid 14 circulation, radiator 22 open to the cooling liquid 14 to dissipate heat. The reference threshold value as follows: {{Max {t1 , T2 , T3 , T4 , T5 , T6 }>1St threshold T upper temperature limit0 } ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>Temperature difference limit 1st threshold T1 }} ∩ {{da (a)/da (g) X>1 } ∪ {a (b)>Y1 }} As shown in Figure 9, when the detected data meet and reach the mode three-starting condition, then the battery pond management system 17 control valve b5, control valve c6 open, water pump 16 to the cooling liquid 14 circulation, radiator 22 open to the cooling liquid 14 to dissipate heat. The reference threshold value as follows: {{ {Max {t1 , T2 , T3 , T4 , T5 , T6 }>1St threshold T upper temperature limit0 } ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>Temperature difference limit 1st threshold T1 }} ∩ {Max {t3 , T4 }>Max {t1 , T2 ,, T5 , T6 }}} ∩ {{da (a)/da (g) X>1 } ∪ {a (b)>Y1 }} As shown in Figure 10, when the detected data meet and reach the mode four starting condition, then the battery pond management system 17 control valve a4, control valve b5, control valve c6, control valve d7 open, water pump 16 to the cooling liquid 14 circulation, radiator 22 open to the cooling liquid 14 to dissipate heat. The reference threshold value as follows: {Max {t1 , T2 , T3 , T4 , T5 , T6 }>2Nd threshold T upper temperature limit0 '} ∪ {da (a)/da (g) X>1 '} ∪ {a (b)>Y1 '} ∪ {Max {t1 , T2 , T3 , T4 , T5 , T6 } - Min {t1 , T2 , T3 , T4 , T5 , T6 }>2Nd threshold T temperature difference limit1 '} At the same time, through different control valve a4, control valve b5, control valve c6, control valve d7 control, to realize the phase change cold plate 2 in the interior of the preliminary to the division of the flow path, do not need the heat dissipation of the battery module 1 of the lower part of the flow passage is sealed to, the battery management system 17 further through the temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 need for heat dissipation of the battery module 1 temperature distribution analysis, judging the need of heat dissipation of the battery module 1 of the distribution of the height of the inside temperature, further computational analysis the optimum heat radiation efficiency of the inner shape of the flow path, to achieve the best heat exchange efficiency, heat dissipation after the start, the battery management system 17 through temperature sensor a8, temperature sensor b9, temperature sensor c10, temperature sensor d11, temperature sensor e12, temperature sensor f13 real-time monitoring the need of heat dissipation of the battery module 1 of the change of the temperature, according to the state of variation moment in real-time the temperature of the optimum heat radiation efficiency of the inner shape of the flow path of the analysis, real-time to the various control valve a4, control valve b5, control valve c6, control valve d7 go on, thus the inner shape of the real-time control of the flow passage, and the heat radiation efficiency is always kept in the best state, and, the mode one of the initial state of the system, the battery management system according to the sensor data judging system handle which mode, such as do not meet the mode two, pattern three, four of the requirements of the mode conditions, is that the heat radiation is completed, to cease the water pump and the control of the control valve, so the phase change internal flow path of the cold plate is reset to the initial state (mode a), if it satisfies the mode two, pattern three, mode four requirements, continue to proceed as above heat radiation. It should be explained that, the scheme of this invention is not limited to the battery module is formed by 6 a of a battery, other battery module is also suitable. As can be seen from the above technical scheme, the embodiment of the invention provides a based on phase change energy storage and circulating liquid-cooled battery pack active thermal management system and control method, to solve the rail transportation vehicle emergency traction battery system at the time of working the problem of heat dissipation, to ensure that the emergency traction battery module system when in operation in a short time the battery module work the best temperature interval, improve the battery module of the , guarantee a track to train emergency traction battery module in the use of system performance and service life."
+        ],
+        "zh": [
+          "技术领域 本发明涉及轨道交通电池模组散热的技术领域，具体涉及一种相变储能液冷板、 电池包主动热管理系统及控制方法。 背景技术 目前国内外城市轨道交通车辆均采用电力电源，供电制式为DC 750V和DC 1500V。 一旦发生故障，将导致牵引供电的中断，影响城市轨道交通运营的质量，造成运营损失。轨 道车装载应急牵引电池模组系统，在车辆故障情况下，列车转入应急自牵引模式，依靠自身 配置的应急牵引电池模组系统将列车行驶至最近的站点。由于电池模组作为主要应急牵引 来源，功率大、电压等级高，所以对电池模组热管理尤为重要。电池模组在大倍率的放电情 况下，电池产生大量的热量，同时由于电池模组内部结构的原因，各电池单体的温度上升速 率存在差异，长时间工作时，部分电池温度过高，同时电池模组内部温度差异过大，会使电 池模组整体使用性能以及使用寿命降低。为了保证电池模组能正常工作，延长其使用寿命 并保证其工作性能，电池模组的散热系统至关重要。 现在对于应急牵引电池模组系统的散热方式与电动汽车的电池模组散热方式比 较近似，由于放电倍率大的原因，采用液冷板的液冷式散热是主流。通过在电池模组下方布 置液冷板，冷却液流经液冷板将电池传递至液冷板的热量带走，实现对电池模组的降温，但 是目前的液冷板结构形式固定，仅能调节流量大小，无法根据电池模组实时变化的温度分 布进行散热效率的调整，散热模式单一，即无法针对高温区域进行局部强化散热，造成散热 效率低下，无法将因为工况变化造成的高温电池控制在合适温度范围，同时电池模组热均 衡性差，使电池的使用性能与使用寿命受到限制。 专利公开号CN105742693A，公开日2016年7月6日，发明创造的名称为一种高安全 性锂离子电池模块，该申请公开了一种高安全性锂离子电池模块，其不足之处是：1、该发明 专利公开的高安全性锂离子电池模块所采用的液冷装置无法根据电池模组的实时温度分 布调整散热效率；2、将电池散热到某一温度值所需要的时间较长。 专利公开号CN201510584799.8，公开日2015年12月23日，发明创造的名称为一种 电池水冷散热器，该申请公开了一种电池水冷散热器，其不足之处是采用液冷板对电池模 组进行散热，但是液冷板结构形式固定，无法根据电池模组温度的实时变化进行散热效率 的调整，从而降低电池的热均衡性。 发明内容 鉴于此，本发明的目的是提供一种相变储能液冷板、电池包主动热管理系统及控 制方法，用于轨交列车应急牵引电池模组系统正常工作时的散热，以保证电池模组在工作 时始终处于最佳放电温度区间，提高电池模组的热均衡性，保证轨道列车在应急牵引电池 模组系统的使用性能与使用寿命。 为实现上述目的，本发明提供如下技术方案：一种基于相变储能器及循环液冷的 电池包主动热管理系统，包括：电气系统、冷却系统，所述电气系统包括电池模组、温度传感 器、温度传感器控制线束、电池管理系统、电源线束、蓄电池、控制线束、油门开度传感器、制 动开度传感器、速度传感器、其他传感器线束、控制阀控制线束，所述的冷却系统包括控制 阀、相变储能液冷板、循环水管、散热器、储水器、水泵、导热胶。 多个模组与相变材料储能液冷板通过导热胶自身的粘性进行连接，导热胶既作为 绝缘材料又作为高效热传导装置；相变材料储能液冷板以及模组与温度传感器相连，温度 传感器与电池管理系统通过控制线束相连；油门开度传感器、制动开度传感器、速度传感器 与电池管理系统通过控制线束相连；蓄电池通过电源线束给电池管理系统、温度传感器、油 门开度传感器、制动开度传感器、速度传感器供电；电池管理系统根据传感器传来的信息， 控制水泵以及控制阀，用以控制电池包的整体温升，增加电池包一致性；本系统具有灵活度 高，散热效果好，适应性强的特点。 同时，相变储能液冷板与控制阀、控制阀与相变储能液冷板、相变储能液冷板与散 热器、散热器与储水器、储水器与水泵、水泵与相变储能液冷板之间通过循环水管相连，冷 却液在该循环系统内流动；电池管理系统通过控制阀控制线束、水泵控制线束、散热器控制 线束与控制阀、水泵、散热器相连；同时控制阀、水泵、散热器通过电源线束与蓄电池相连。 多个电池模组四周贴上导热胶，通过导热胶的粘性进行连接；连接好的电池模组 以及导热胶镶嵌布置在相变储能液冷板之间，两两之间通过导热胶的粘性进行连接固定， 温度传感器固定在各个电池模组不靠相变储能液冷板一侧的导热胶表面上，通过温度传感 器控制线束将电池模组的详细温度数据传输给电池管理系统，蓄电池通过电源线束与电池 管理系统连接； 相变储能液冷板、导热胶以及多个电池模组之间通过导热胶的粘性紧紧相连，没 有空隙；导热胶拥有防水坚固绝缘导热的特性，首先作为电池模组与相变储能液冷板之间 固定用的粘合剂；其次凭借高导热性，作为电池模组与相变储能液冷板之间的热量传递通 道；最后凭借足够的强度刚度，导热胶可以有效的作为电池模组与相变储能液冷板之间的 结构支承件，防止电池模组在相变储能液冷板之间出现结构不稳的情况； 相变储能液冷板拥有足够的结构强度以及高效的导热系数，首先作为电池模组热 量的导出通道；其次，作为结构支撑件，保持系统的结构稳定性； 同时电池管理系统通过其他传感器控制线束与油门开度传感器、制动开度传感 器、速度传感器相连；同时电池管理系统通过控制线束与控制阀、水泵分别连接，实现对控 制阀与水泵工作的控制，水泵与相变储能液冷板、相变储能液冷板与散控制阀、相变储能液 冷板与散热器、散热器与储水器、储水器与水泵之间都分别通过液冷管路连接。 同时，本发明中所述的相变储能液冷板包括冷却液、分隔板、液冷板壳体、相变材 料。相变储能液冷板壳体由铝合金等轻质高导热系数材料制成，液冷板内部以分隔板分为 上下两层，其中上层为冷却液流动区域，下层为密闭的相变材料，分隔板由防水绝缘导热的 材料制成，并与相变储能液冷板壳体内部表面固定；壳体设有冷却液进口和出口。 上述所述的多个电池模组、导热胶、相变储能液冷板下表面齐平(以图1中上层液 冷板、电池模组为参考，对应的下层液冷板和电池模组的上表面齐平)； 结合所述的轨道交通电池模组基于相变储能液冷板的散热系统，本发明提供如下 控制方法： 电池管理系统通过温度传感器检测各电池模组温度，结合油门开度传感器、制动 开度传感器、速度传感器的数据以及电池模组的合适工作温度范围判断是否有电池模组达 到散热要求，若有，则电池管理系统控制控制阀打开、水泵打开促使冷却液循环、散热器打 开对冷却液进行散热； 同时针对不需要进行散热的电池模组，关闭该电池模组所对应的控制阀，即不需 要散热的电池模组下方对应的流道被封住； 电池管理系统进一步通过温度传感器对需要散热的电池模组的温度分布进行分 析，判断需要散热的电池模组内部的高低温度分布情况，进一步计算分析最佳散热效率的 控制阀开关情况，通过不同电池模组对应的控制阀的开合以及水泵的流速控制，达到最佳 换热效率。散热开始后，电池管理系统通过温度传感器实时监测需要散热的电池模组的温 度变化，根据实时的温度变化状态时刻进行最佳散热效率的流道内部形状的分析，实时对 各控制阀的开合以及水泵的流速大小进行控制，从而对流道流经进行实时控制，使散热效 率始终维持在最佳状态； 上述对流道进行实时控制，使散热效率始终维持在最佳状态时采用的方法为：设 采集油门开度数据a、制动开度数据b、速度数据g和电池模组温度数据t1,t2,t3,t4,t5,t6，对 所采集的油门开度数据a、制动开度数据b、速度数据g和温度数据ti分别进行加速度运算， 获得油门开度加速度a(a)、制动开度加速度a(b)和车辆加速度a(g)；对油门开度加速度a (a)和车辆加速度a(g)分别进行微分运算，并计算二者的微分比值da(a)/da(g)；具体控制 策略以及工作模式包括如下几种情况： 1)模式一：{Max{t1,t2,t3,t4,t5,t6}≤温度上限第一阈值T0}∩{Max{t1,t2,t3,t4, t5,t6}-Min{t1,t2,t3,t4,t5,t6}≤温差上限第一阈值T1}； 2)模式二： {{Max{t1,t2,t3,t4,t5,t6}>温度上限第一阈值T0}∪{Max{t1,t2,t3,t4,t5,t6}-Min {t1,t2,t3,t4,t5,t6}>温差上限第一阈值T1}}∩{{da(a)/da(g)>X1}∪{a(b)>Y1}}； 3)模式三： {{{Max{t1,t2,t3,t4,t5,t6}>温度上限第一阈值T0}∪{Max{t1,t2,t3,t4,t5,t6}- Min{t1,t2,t3,t4,t5,t6}>温差上限第一阈值T1}}∩{Max{t3,t4}>Max{t1,t2,t5,t6}}}∩{{da (a)/da(g)>X1}∪{a(b)>Y1}}； 4)模式四：{Max{t1,t2,t3,t4,t5,t6}>温度上限第二阈值T0′}∪{da(a)/da(g)>X1′} ∪{a(b)>Y1′}∪{Max{t1,t2,t3,t4,t5,t6}-Min{t1,t2,t3,t4,t5,t6}>温差上限第二阈值T1′} X1′表示油门开度加速度与加速度微分比值第二阈值，Y1′表示制动开度加速度第 二阈值；X1表示油门开度加速度与加速度微分比值第一阈值，Y1表示制动开度加速度第一阈 值；t1,t2,t3,t4,t5,t6表示模组(1)中六个模组的温度(以图11中电池分布图所示)。 其中，X1,Y1,X1′,Y1′,T0,T1,T0′,T1′的数值通过实验来获得，根据NEDC工况以及实 车测试工况，实时检测油门开度、制动开度、速度以及各个模组的温度值，进而确定上述阈 值大小。其中X1大致范围为0.7～0.85；Y1大致为1.744rad/s2；X1′大致范围为0.95～1.05； Y1′大致为3.75rad/s2；T0大致范围为40～42℃；T1大致为3℃；T0′大致范围为50～52℃；T1′ 大致为6℃。 当判断电池包处于模式一时，控制阀a、控制阀b、控制阀c关闭，根据多源传感器融 合数据(油门开度、制动开度、速度以及电池温度)对水泵以及散热器进行实时控制，让水泵 在5％～25％流量开度，散热器保持在5％～25％风扇转速之间，维持电池包的温度在最佳 区间内，实现电池包温度的实时控制； 当触发条件满足模式二、模式三、模式四的条件要求时，散热开始，电池管理系统 根据实时的多源传感器融合数据(油门开度、制动开度、速度以及电池温度)变化状态时刻 判断电池包所处的模式，首先进行控制阀开合的控制，变换对应模式下的电池包内部冷却 液流道流经，然后进行最佳散热效率时的水泵流量以及散热器风速的最佳参数组合分析， 实时对水泵以及散热器的控制。从而对流道的流经、水流速度以及散热风速进行实时控制， 使散热效率始终维持在最佳状态。 并且，电池管理系统根据实时的多源传感器融合数据(油门开度、制动开度、速度 以及电池温度)，综合判断电池包所处的模式，当判断电池包出于模式一时，则散热完成，将 控制阀a、控制阀b、控制阀c关闭，控制水泵在5％～25％流量开度，散热器保持在5％～25％ 风扇转速之间，使电池包内部流道重置为初始状态；当判断电池包处于模式二、模式三、模 式四时，则继续进行上述方式进行散热。 与现有技术相比，本发明具有如下有益效果： (1)本发明公开的一种基于相变储能器及循环液冷的电池包主动热管理系统及控 制方法根据电池模组的实时温度分布变化情况以及油门开度、制动开度、速度大小来进行 散热效率的调整，可以针对性的提高精准散热能力。 (2)本发明公开的一种基于相变储能器及循环液冷的电池包主动热管理系统及控 制方法使电池模组散热所需要的时间极大降低，从而极大地提升了电池模组的使用性能与 使用寿命。之前的电池包散热系统大多采用固定的散热方式(固定几个水泵流量或者散热 风速等)，本发明提供的散热系统通过四种模式的划分，根据传感器数据预测电池包产热情 况，提早实时调整水泵流量、散热器风速以及水道流经，可以极大地提升电池包的散热效 率，缩短电池包的散热时间。 (3)本发明公开的一种基于相变储能器及循环液冷的电池包主动热管理系统及控 制方法使电池模组内部温差控制在比较小的范围之内，提高电池模组的热均衡性。同上，之 前的电池包散热系统大多采用固定的散热方式(固定几个水泵流量或者散热风速等)，本发 明提供的散热系统通过四种模式的划分，根据传感器数据预测电池包产热情况，提早实时 调整水泵流量、散热器风速以及水道流经，可以极大地提升电池包的散热效率，并且采用的 导热胶能够很好的将热量从电池模组导出到相变储能液冷板中，提高电池模组的热均衡 性。(4)本发明公开的一种基于相变储能器及循环液冷的电池包主动热管理系统及控制方 法将相变材料密闭在液冷板中，防止因相变材料相态变化导致系统结构不稳的情况发生， 并且通过冷却液将相变材料吸收的热量传导出去，极大的提升散热效能。 (5)本发明公开的一种基于相变储能器及循环液冷的电池包主动热管理系统及控 制方法采用导热胶作为高效导热材料以及粘接材料，放置在电池模组与相变储能液冷板之 间，避免相变储能液冷板与电池模组的直接接触导致绝缘值降低的问题；保证了结构的稳 定性；提高了导热效能。 附图说明 图1为本发明实施例提供的电池模组散热系统图 图2为本发明实施例提供的电池模组及导热胶装配图 图3为本发明实施例提供的电池模组相变储能液冷板三维图 图4为本发明实施例提供的电池模组散热系统俯视系统结构图 图5为本发明实施例提供的电池模组相变储能液冷板俯视剖视图 图6为本发明实施例提供的电池模组散热系统工作流程图 图7为本发明实施例提供的模式一液冷流道图 图8为本发明实施例提供的模式二液冷流道图 图9为本发明实施例提供的模式三液冷流道图 图10为本发明实施例提供的模式四液冷流道图 图11为本发明电池分布示意图。 其中：1-电池模组、2-相变储能液冷板、3-导热胶、4-控制阀a、5-控制阀b、6-控制 阀c、7-控制阀d、8-温度传感器a、9-温度传感器b、10-温度传感器c、11-温度传感器d、12-温 度传感器e、13-温度传感器f、14-冷却液、15-相变材料、16-水泵、17-电池管理系统、18-蓄 电池、19-速度传感器、20-油门开度传感器、21-制动开度传感器、22-散热器、23-储水器、 24-循环水管、25-温度传感器控制线束、26-电源线束、27-其他传感器线束、28-控制阀控制 线束、29-分隔板、30-液冷板壳体、31-水泵控制线束、32-散热器控制线束。 具体实施方式 本发明实施例公开了一种基于相变储能器及循环液冷的电池包主动热管理系统 及控制方法，用于轨交列车的应急牵引电池模组系统，能保证应急牵引电池模组系统在工 作时处于最佳温度区间。 下面将结合本发明实施例中的附图，对本发明实施例中的技术方案进行清楚、完 整地描述，显然，所描述的实施例仅仅是本发明一部分实施例，而不是全部的实例。基于本 发明中的实施例，本领域普通技术人员在没有做出创造性劳动前提下所获得的其他实施 例，都属于本发明的保护范围。 如图1与图4所示，本发明实施例提供的基于相变储能器及循环液冷的电池包主动 热管理系统及控制方法包括电气系统、冷却系统，所述电气系统包括电池模组1、温度传感 器a8、温度传感器b9、温度传感器c10、温度传感器d11、温度传感器e12、温度传感器f13、温 度传感器控制线束25、电池管理系统17、电源线束26、蓄电池18、油门开度传感器20、制动开 度传感器21、速度传感器19、其他传感器线束27、控制阀控制线束28，所述的冷却系统包括 控制阀a4、控制阀b5、控制阀c6、控制阀d7、相变储能液冷板2、循环水管24、散热器22、储水 器23、水泵16、导热胶3。 相变材料储能液冷板2以及电池模组1与温度传感器a8、温度传感器b9、温度传感 器c10、温度传感器d11、温度传感器e12、温度传感器f13相连，温度传感器a8、温度传感器 b9、温度传感器c10、温度传感器d11、温度传感器e12、温度传感器f13与电池管理系统17通 过温度传感器控制线束25相连；同时电池管理系统17通过其他传感器控制线束27与油门开 度传感器20、制动开度传感器21、速度传感器19相连；蓄电池18通过电源线束26给电池管理 系统17、温度传感器a8、温度传感器b9、温度传感器c10、温度传感器d11、温度传感器e12、温 度传感器f13、油门开度传感器20、制动开度传感器21、速度传感器19供电；电池管理系统17 根据传感器传来的信息，控制水泵16以及控制阀a4、控制阀b5、控制阀c6、控制阀d7，用以控 制电池包的整体温升，增加电池包一致性；本系统具有灵活度高，散热效果好，适应性强的 特点。 同时，同时电池管理系统17通过控制阀控制线束28与控制阀a4、控制阀b5、控制阀 c6、控制阀d7、水泵16分别连接，实现对控制阀a4、控制阀b5、控制阀c6、控制阀d7、水泵16工 作的控制，水泵16与相变储能液冷板2、相变储能液冷板2与控制阀a4、控制阀b5、控制阀c6、 控制阀d7、相变储能液冷板2与散热器22、散热器22与储水器23、储水器23与水泵16之间都 分别通过循环水管24连接，冷却液14在该循环系统中流动；同时控制阀a4、控制阀b5、控制 阀c6、控制阀d7、水泵16通过电源线束26与蓄电池18相连。 如图2所示，多个电池模组1四周贴上导热胶3，通过导热胶3的粘性进行连接；导热 胶3拥有防水坚固绝缘导热的特性，首先作为电池模组1与相变储能液冷板2之间固定用的 粘合剂；其次凭借高导热性，作为电池模组1与相变储能液冷板2之间的热量传递通道；最后 凭借足够的强度刚度，导热胶3可以有效的作为电池模组1与相变储能液冷板2之间的结构 支承件，防止电池模组1与相变储能液冷板2之间出现结构不稳的情况； 如图3与图5所示，本发明中所述的相变储能液冷板2包括冷却液14、分隔板29、液 冷板壳体30、相变材料15。相变储能液冷板2呈现类似的“山”字型，“山指”有若干个，连接好 的电池模组1以及导热胶3镶嵌布置在相变储能液冷板2的山指之间，两两之间通过导热胶3 的粘性进行连接固定，温度传感器a8、温度传感器b9、温度传感器c10、温度传感器d11、温度 传感器e12、温度传感器f13固定在各个电池模组1不靠相变储能液冷板2一侧的导热胶3表 面上，通过温度传感器控制线束25将电池模组1的详细温度数据传输给电池管理系统17，蓄 电池18通过电源线束26与电池管理系统17连接；相变储能液冷板壳体30由铝合金等轻质高 导热系数材料制成，相变储能液冷板2内部以分隔板29分为上下两层，其中上层为冷却液14 流动区域，下层为密闭的相变材料15，分隔板29由防水绝缘导热的材料制成，并与相变储能 液冷板壳体30内部表面固定。 相变储能液冷板2拥有足够的结构强度以及高效的导热系数，首先作为电池模组1 热量的导出通道；其次，作为结构支撑件，保持系统的结构稳定性； 上述所述的多个电池模组1、导热胶3、相变储能液冷板2下表面齐平； 如图6所示，本发明实施例提供的一种基于相变储能器及循环液冷的电池包主动 热管理系统及控制方法如下：电池管理系统17通过温度传感器a8、温度传感器b9、温度传感 器c10、温度传感器d11、温度传感器e12、温度传感器f13检测各电池模组1的温度、通过油门 开度传感器20检测油门开度、通过制动开度传感器21检测制动踏板开度、通过速度传感器 19检测速度，结合电池模组1的合适工作温度范围判断是否有电池模组1达到散热要求。将 采集被监控设备中的油门开度数据a、制动开度数据b、速度数据g和6个电池模组的温度数 据t1,t2,t3,t4,t5,t6，对所采集的油门开度数据、制动开度数据、速度数据和温度数据分别 进行加速度运算，获得油门开度加速度a(a)、制动开度加速度a(b)和加速度a(g)；对油门开 度加速度a(a)和加速度a(g)分别进行微分运算，并计算二者的微分比值da(a)/da(g)。 如图7所示，若没有超过电池模组1的合适工作温度范围，则系统处于模式一状态， 则电池管理系统17控制控制阀d7打开、水泵16打开，促使冷却液14循环、散热器22打开对冷 却液14进行散热。参考阈值如下所示： {Max{t1,t2,t3,t4,t5,t6}≤温度上限第一阈值T0}∩{Max{t1,t2,t3,t4,t5,t6}-Min {t1,t2,t3,t4,t5,t6}≤温差上限第一阈值T1} 如图8所示，当检测到的数据满足达到模式二启动条件时，则电池管理系统17控制 控制阀a4、控制阀d7打开、水泵16打开，促使冷却液14循环、散热器22打开对冷却液14进行 散热。参考阈值如下所示： {{Max{t1,t2,t3,t4,t5,t6}>温度上限第一阈值T0}∪{Max{t1,t2,t3,t4,t5,t6}-Min {t1,t2,t3,t4,t5,t6}>温差上限第一阈值T1}}∩{{da(a)/da(g)>X1}∪{a(b)>Y1}} 如图9所示，当检测到的数据满足达到模式三启动条件时，则电池池管理系统17控 制控制阀b5、控制阀c6打开、水泵16打开促使冷却液14循环、散热器22打开对冷却液14进行 散热。参考阈值如下所示： {{{Max{t1,t2,t3,t4,t5,t6}>温度上限第一阈值T0}∪{Max{t1,t2,t3,t4,t5,t6}- Min{t1,t2,t3,t4,t5,t6}>温差上限第一阈值T1}}∩{Max{t3,t4}>Max{t1,t2,,t5,t6}}}∩ {{da(a)/da(g)>X1}∪{a(b)>Y1}} 如图10所示，当检测到的数据满足达到模式四启动条件时，则电池池管理系统17 控制控制阀a4、控制阀b5、控制阀c6、控制阀d7打开、水泵16打开促使冷却液14循环、散热器 22打开对冷却液14进行散热。参考阈值如下所示： {Max{t1,t2,t3,t4,t5,t6}>温度上限第二阈值T0′}∪{da(a)/da(g)>X1′}∪{a(b)> Y1′}∪{Max{t1,t2,t3,t4,t5,t6}-Min{t1,t2,t3,t4,t5,t6}>温差上限第二阈值T1′} 同时，通过对不同的控制阀a4、控制阀b5、控制阀c6、控制阀d7进行控制，实现对相 变储能液冷板2内部的流道进行初步划分，即不需要散热的电池模组1下方对应的流道被封 住，电池管理系统17进一步通过温度传感器a8、温度传感器b9、温度传感器c10、温度传感器 d11、温度传感器e12、温度传感器f13对需要散热的电池模组1的温度分布进行分析，判断需 要散热的电池模组1内部的高低温度分布情况，进一步计算分析最佳散热效率的流道内部 形状，达到最佳换热效率，散热开始后，电池管理系统17通过温度传感器a8、温度传感器b9、 温度传感器c10、温度传感器d11、温度传感器e12、温度传感器f13实时监测需要散热的电池 模组1的温度变化，根据实时的温度变化状态时刻进行最佳散热效率的流道内部形状的分 析，实时对各控制阀a4、控制阀b5、控制阀c6、控制阀d7的通电进行控制，从而对流道内部形 状进行实时控制，使散热效率始终维持在最佳状态，并且，模式一为系统初始状态，电池管 理系统根据传感器数据判断系统处理哪种模式，如不满足模式二、模式三、模式四的条件要 求，则认为散热完成，停止对各控制阀以及水泵的控制，使相变储能液冷板内部流道重置为 初始状态(模式一)，若满足模式二、模式三、模式四的条件要求，则继续按上述情况进行散 热。 需要说明的是，本发明的方案并不局限于电池模组由6个电池组成的情况，其他电 池模组同样适用。 从上述技术方案可以看出，本发明实施例提供一种基于相变储能器及循环液冷的 电池包主动热管理系统及控制方法，解决轨道交通车辆应急牵引电池系统在工作时的散热 问题，保证应急牵引电池模组系统在工作时在短时间内达到电池模组工作的最佳温度区 间，提高电池模组的热均衡性，保证轨道列车在应急牵引电池模组系统的使用性能与使用 寿命。"
+        ]
+      },
+      "id": "6335e013667297566c1a99df",
+      "inventor": [
+        {
+          "name": "XU XIAOMING",
+          "sequence": 1
+        },
+        {
+          "name": "TANG WEI",
+          "sequence": 2
+        },
+        {
+          "name": "SUN XUDONG",
+          "sequence": 3
+        },
+        {
+          "name": "HU DONGHAI",
+          "sequence": 4
+        }
+      ],
+      "ipc": [
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6567"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/613"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6556"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/625"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/617"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/635"
+        },
+        {
+          "l1": "B",
+          "l2": "B60",
+          "l3": "B60L",
+          "l4": "B60L58/26"
+        }
+      ],
+      "ipcr": [
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/613"
+        },
+        {
+          "l1": "B",
+          "l2": "B60",
+          "l3": "B60L",
+          "l4": "B60L58/26"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/617"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/625"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/635"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6556"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6567"
+        }
+      ],
+      "pct": {
+        "app_num": "CN201811132449A",
+        "pub_num": "CN109449528A"
+      },
+      "priority": [
+        {
+          "country": "cn",
+          "date": {
+            "seconds": 1537977600
+          },
+          "num": "201811132449"
+        }
+      ],
+      "pub_date": {
+        "seconds": 1551974400
+      },
+      "pub_kind": "A",
+      "pub_num": "109449528",
+      "reference": {
+        "paper_references": [
+          {
+            "raw_text": "S. AL HALLAJ等: \"A novel thermal management system for electric vehicle batteries using phase-change materials\", 《JOURNAL OF THE ELECTROCHEMICAL SOCIETY》",
+            "sequence": 1
+          },
+          {
+            "raw_text": "XIAOMING X等: \"The forced air cooling heat dissipation performance of different battery pack bottom duct\", 《INTERNATIONAL JOUNAL OF ENERGY RESEARCH》",
+            "sequence": 2
+          },
+          {
+            "raw_text": "张国庆等: \"相变储能材料在电池热管理系统中的应用研究进展\", 《材料导报》",
+            "sequence": 3
+          }
+        ],
+        "patent_references": [
+          {
+            "patent_office": "wo",
+            "raw_kind": "A1",
+            "raw_number": "2012046594",
+            "sequence": 1
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "103579711",
+            "sequence": 2
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "103640534",
+            "sequence": 3
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "103855441",
+            "sequence": 4
+          },
+          {
+            "patent_office": "jp",
+            "raw_kind": "A",
+            "raw_number": "2016049838",
+            "sequence": 5
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "106654322",
+            "sequence": 6
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "107017449",
+            "sequence": 7
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "107284263",
+            "sequence": 8
+          },
+          {
+            "patent_office": "us",
+            "raw_kind": "A1",
+            "raw_number": "2017324128",
+            "sequence": 9
+          },
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "107878225",
+            "sequence": 10
+          }
+        ]
+      },
+      "title": {
+        "en": [
+          "A kind of phase-change accumulation energy liquid cooling plate, battery pack active thermal management system and control method"
+        ],
+        "zh": [
+          "一种相变储能液冷板、电池包主动热管理系统及控制方法"
+        ]
+      }
+    }
+  ],
+  "log_id": "3J84x2v6e8v4OcqQF8vIYLjlnA0"
+}

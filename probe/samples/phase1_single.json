@@ -1,0 +1,167 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6765c33c0af3259ff2935565",
+      "title": "Gel composite phase change material comprises            phase change material, gel, polyurethane resin, and            acrylic resin.",
+      "title_zh": "一种凝胶复合相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "陈良杰"
+    },
+    {
+      "id": "67a73da2190e2b11c8a44e14",
+      "title": "Composite phase change material used in            lithium-ion battery of electric device, comprises            organic phase-change material, and shell layer covered            on surface of phase-change material.",
+      "title_zh": "一种复合相变材料及其制备方法和应用",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "卢章"
+    },
+    {
+      "id": "65a55cc13af9f09dc479d945",
+      "title": "Phase change material switch for radio frequency            application, has dielectric covering layer located            between one surface of heater pad and phase change            material layer.",
+      "title_zh": "相变材料开关",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "丁裕伟"
+    },
+    {
+      "id": "66f12b0e53e872fbfab75a43",
+      "title": "Method for preparing a reconfigurable phase-change            material super-surface device used in optical neural            network, involves pressurizing phase-change material            super-lens device to heat the phase-change material            super-lens in phase-change material super-lens            device.",
+      "title_zh": "可重构相变材料超表面器件的制备方法、可重构相变材料超表面器件",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "梁丹"
+    },
+    {
+      "id": "676a8851df1913665c3eb833",
+      "title": "Etching phase change material layer comprises            forming lamination body on semiconductor substrate,            exposing photo-resistance layer and etching titanium            nitride layer and phase change material layer by            patterned silicon nitride layer to form patterned            titanium nitride and phase change material layer.",
+      "title_zh": "相变材料层的刻蚀方法",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "王志远"
+    },
+    {
+      "id": "655d891c5040e83111e3289d",
+      "title": "Phase change material temperature test circulation system",
+      "title_zh": "相变材料温度测试循环系统",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "柳俊万"
+    },
+    {
+      "id": "65a161a36cfeac0a05c064f7",
+      "title": "Greenhouse with phase change material comprises            insulation wall and inner cavity of filled with            composite phase change material including phase change            material and thermal conductivity enhancement            material.",
+      "title_zh": "一种采用相变材料的大棚",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "倪磊"
+    },
+    {
+      "id": "655d87ac4ec2aacf6be3274e",
+      "title": "Solid-solid phase change material design method, solid-solid phase change material and configuration method thereof",
+      "title_zh": "一种固固相变材料设计方法、固固相变材料及其配置方法",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "焦文秀"
+    },
+    {
+      "id": "649c1e54cf33da7833f4466b",
+      "title": "Phase change material extrusion device",
+      "title_zh": "一种相变材料挤出装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "陈良杰"
+    },
+    {
+      "id": "649c2183efe782d606f4c48f",
+      "title": "Phase change material packaging hardware",
+      "title_zh": "一种相变材料封装装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "陈良杰"
+    },
+    {
+      "id": "649c211c646122c9a4f4b06d",
+      "title": "Phase change material detection device",
+      "title_zh": "一种相变材料检测装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "陈良杰"
+    },
+    {
+      "id": "63365538ecab480b2eff0a02",
+      "title": "Flexible phase change material",
+      "title_zh": "柔性相变材料",
+      "pub_year": "2022",
+      "app_year": "2020",
+      "inventor_name": "J·I·蒂耶斯尼奇"
+    },
+    {
+      "id": "67a73d578214fda0d6a44da2",
+      "title": "Switch based on phase change material for            switching antenna between transmission and reception            modes for use in e.g. radio frequency communication            application, has polarization rotator located opposite            to face of region made of phase-change material.",
+      "title_zh": "基于相变材料的开关",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "伊斯梅尔·沙莱"
+    },
+    {
+      "id": "655d987203f706e853e33577",
+      "title": "Preparation method of phase-change material, application and lithium battery",
+      "title_zh": "一种相变材料的制备方法、相变材料、应用及锂电池",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "李昊"
+    },
+    {
+      "id": "64df1bec0ac3257d3b7f29eb",
+      "title": "Phase change material and preparation method thereof",
+      "title_zh": "相变材料及其制备方法",
+      "pub_year": "2023",
+      "app_year": "2021",
+      "inventor_name": "谢红彤"
+    },
+    {
+      "id": "6765c54278d7a8515793607b",
+      "title": "Phase change material equivalent simulation test            method, involves evaluating performance of phase change            material according to influence of equivalent phase            change material model to temperature of temperature            control material model.",
+      "title_zh": "一种相变材料等效仿真测试方法、装置及电子设备",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "王东燊"
+    },
+    {
+      "id": "6521292d194cdb3cc1c1b4d6",
+      "title": "Composite phase change material, preparation method thereof and method for adjusting phase change temperature of phase change material",
+      "title_zh": "复合相变材料及其制备方法和调节相变材料相变温度的方法",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "YAO RUIMIN"
+    },
+    {
+      "id": "66bdb75b2fc0dc51819c6c6d",
+      "title": "Biomass film composite phase change material            comprises biomass fibre and biomass phase-change            material.",
+      "title_zh": "一种生物质膜复合相变材料的及其制备方法和应用",
+      "pub_year": "2024",
+      "app_year": "2022",
+      "inventor_name": "史全"
+    },
+    {
+      "id": "66bdb2812c26713f069c44c3",
+      "title": "Phase change material, comprises multi-element            phase change material and gas phase silicon dioxide,            where multi-element phase-change material is fatty acid            and fatty alcohol.",
+      "title_zh": "一种熔融前后低形变率相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2022",
+      "inventor_name": "史全"
+    },
+    {
+      "id": "66bdb44d6f245990239c5395",
+      "title": "Thermally regulated composite phase change            material for thermally regulated high specific energy            battery pack, comprises first phase change material, a            second phase change material, and functional            additives.",
+      "title_zh": "一种高比能电池组热调控复合相变材料",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "田千秋"
+    }
+  ]
+}

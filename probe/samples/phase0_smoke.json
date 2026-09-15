@@ -1,0 +1,47 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6765c33c0af3259ff2935565",
+      "title": "Gel composite phase change material comprises            phase change material, gel, polyurethane resin, and            acrylic resin.",
+      "title_zh": "一种凝胶复合相变材料及其制备方法",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "陈良杰"
+    },
+    {
+      "id": "67a73da2190e2b11c8a44e14",
+      "title": "Composite phase change material used in            lithium-ion battery of electric device, comprises            organic phase-change material, and shell layer covered            on surface of phase-change material.",
+      "title_zh": "一种复合相变材料及其制备方法和应用",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "卢章"
+    },
+    {
+      "id": "65a55cc13af9f09dc479d945",
+      "title": "Phase change material switch for radio frequency            application, has dielectric covering layer located            between one surface of heater pad and phase change            material layer.",
+      "title_zh": "相变材料开关",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "丁裕伟"
+    },
+    {
+      "id": "66f12b0e53e872fbfab75a43",
+      "title": "Method for preparing a reconfigurable phase-change            material super-surface device used in optical neural            network, involves pressurizing phase-change material            super-lens device to heat the phase-change material            super-lens in phase-change material super-lens            device.",
+      "title_zh": "可重构相变材料超表面器件的制备方法、可重构相变材料超表面器件",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "梁丹"
+    },
+    {
+      "id": "676a8851df1913665c3eb833",
+      "title": "Etching phase change material layer comprises            forming lamination body on semiconductor substrate,            exposing photo-resistance layer and etching titanium            nitride layer and phase change material layer by            patterned silicon nitride layer to form patterned            titanium nitride and phase change material layer.",
+      "title_zh": "相变材料层的刻蚀方法",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "王志远"
+    }
+  ]
+}

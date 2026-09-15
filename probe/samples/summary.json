@@ -1,0 +1,339 @@
+{
+  "started_at": "2026-09-10T16:35:04",
+  "detail_budget": 0,
+  "phases": {
+    "phase0": {
+      "ok": true,
+      "top_level_keys": [
+        "code",
+        "data",
+        "msg",
+        "status"
+      ],
+      "returned": 5
+    },
+    "phase1": {
+      "matrix": {
+        "single": {
+          "query": "相变材料",
+          "n": 20,
+          "sample_titles": [
+            "一种凝胶复合相变材料及其制备方法",
+            "一种复合相变材料及其制备方法和应用",
+            "相变材料开关",
+            "可重构相变材料超表面器件的制备方法、可重构相变材料超表面器件",
+            "相变材料层的刻蚀方法"
+          ]
+        },
+        "and_space": {
+          "query": "相变材料 液冷板",
+          "n": 20,
+          "sample_titles": [
+            "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+            "一种基于双层相变材料和液冷板复合的动力电池热管理装置",
+            "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+            "一种复合相变材料板耦合液冷的电池热管理装置",
+            "一种基于相变材料和网格状翅片液冷板的动力电池热管理装置"
+          ]
+        },
+        "and_word": {
+          "query": "相变材料 AND 液冷板",
+          "n": 20,
+          "sample_titles": [
+            "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+            "一种基于双层相变材料和液冷板复合的动力电池热管理装置",
+            "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+            "一种基于相变材料和网格状翅片液冷板的动力电池热管理装置",
+            "一种新型的间接接触式相变材料耦合鳍片管的电池液冷板散热装置"
+          ]
+        },
+        "or_word": {
+          "query": "相变材料 OR PCM",
+          "n": 20,
+          "sample_titles": [
+            "一种溢香型多功能窗帘",
+            "一种可拆洗枕套",
+            "一种多功能空调毯",
+            "中央空调系统的控制方法、终端及中央空调系统",
+            "中央空调系统的故障处理方法、终端及中央空调系统"
+          ]
+        },
+        "paren": {
+          "query": "(相变材料 OR PCM) AND 液冷板",
+          "n": 0,
+          "sample_titles": []
+        },
+        "phrase": {
+          "query": "\"复合相变材料\"",
+          "n": 20,
+          "sample_titles": [
+            "复合相变材料及其制备方法",
+            "胶囊型复合相变材料制备",
+            "一种聚乙二醇/纳米二氧化硅复合相变材料的制备方法及复合相变材料",
+            "一种复合相变材料及其制备方法",
+            "复合相变材料及其制备方法"
+          ]
+        },
+        "full_mock": {
+          "query": "(相变材料 OR PCM OR 相变储热) AND (液冷板 OR 液冷) AND (动力电池 OR 电池包 OR 储能电池) AND 热管理",
+          "n": 0,
+          "sample_titles": []
+        }
+      },
+      "jaccard": {
+        "single~or_word": 0.0,
+        "and_space~and_word": 0.379,
+        "and_space~paren": 0.0,
+        "or_word~paren": 0.0,
+        "single~phrase": 0.0,
+        "full_mock~paren": null
+      }
+    },
+    "phase2": {
+      "pages": [
+        {
+          "page": 0,
+          "n": 20,
+          "dups_vs_previous": 0,
+          "first_title": [
+            "一种凝胶复合相变材料及其制备方法"
+          ]
+        },
+        {
+          "page": 1,
+          "n": 20,
+          "dups_vs_previous": 0,
+          "first_title": [
+            "一种基于相变材料和气凝胶的芯片保温装置"
+          ]
+        },
+        {
+          "page": 2,
+          "n": 20,
+          "dups_vs_previous": 1,
+          "first_title": [
+            "基于相变材料的开关"
+          ]
+        },
+        {
+          "page": 3,
+          "n": 20,
+          "dups_vs_previous": 0,
+          "first_title": [
+            "一种相变材料及其制备方法"
+          ]
+        },
+        {
+          "page": 4,
+          "n": 20,
+          "dups_vs_previous": 0,
+          "first_title": [
+            "两级相变材料与液体耦合的电池温控装置"
+          ]
+        },
+        {
+          "page": 5,
+          "n": 20,
+          "dups_vs_previous": 1,
+          "first_title": [
+            "一种基于双层柔性相变材料的全气候动力电池热管理系统"
+          ]
+        },
+        {
+          "page": 6,
+          "n": 20,
+          "dups_vs_previous": 1,
+          "first_title": [
+            "导热相变材料及其制备方法和应用"
+          ]
+        }
+      ],
+      "size50_returned": 50
+    },
+    "phase3": [
+      {
+        "id": "63365538ecab480b2eff0a02",
+        "keys": [
+          "app_num",
+          "app_year",
+          "country",
+          "id",
+          "inventor",
+          "pub_kind",
+          "pub_num",
+          "pub_year",
+          "title"
+        ],
+        "pub_num": "114729259",
+        "country": "cn",
+        "pub_kind": "A"
+      },
+      {
+        "id": "649c1e54cf33da7833f4466b",
+        "keys": [
+          "app_num",
+          "app_year",
+          "country",
+          "id",
+          "inventor",
+          "pub_kind",
+          "pub_num",
+          "pub_year",
+          "title"
+        ],
+        "pub_num": "218857643",
+        "country": "cn",
+        "pub_kind": "U"
+      }
+    ],
+    "phase4": {
+      "attempted": 0
+    }
+  },
+  "calls": [
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 1.51
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.83
+    },
+    {
+      "tag": "search:相变材料 液冷板",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.54
+    },
+    {
+      "tag": "search:相变材料 AND 液冷板",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.44
+    },
+    {
+      "tag": "search:相变材料 OR PCM",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 2.36
+    },
+    {
+      "tag": "search:(相变材料 OR PCM) AND 液冷",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.26
+    },
+    {
+      "tag": "search:\"复合相变材料\"",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.58
+    },
+    {
+      "tag": "search:(相变材料 OR PCM OR 相变储热",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.25
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.15
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.35
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.31
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.52
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.34
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.35
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.39
+    },
+    {
+      "tag": "search:相变材料",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "操作成功",
+      "elapsed": 0.34
+    },
+    {
+      "tag": "info:63365538",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "",
+      "elapsed": 0.14
+    },
+    {
+      "tag": "info:649c1e54",
+      "attempt": 0,
+      "http": 200,
+      "code": 200,
+      "msg": "",
+      "elapsed": 0.17
+    }
+  ]
+}

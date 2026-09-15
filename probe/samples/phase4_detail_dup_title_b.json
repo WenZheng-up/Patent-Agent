@@ -1,0 +1,209 @@
+{
+  "code": 200,
+  "success": true,
+  "msg": "",
+  "data": [
+    {
+      "abstract": {
+        "en": [
+          "The invention discloses a phase change energy storage liquid cooling plate, a battery pack active heat management system and a control method, wherein the system comprises a battery module, a temperature sensor, a phase change energy storage liquid cooling plate, heat conducting glue, a battery management system, an accelerator opening sensor, a brake opening sensor, a speed sensor, a temperature sensor control wire harness, a power supply wire harness, other sensor wire harnesses, a control valve control wire harness, a control valve and a water pump; the battery module is connected with the phase-change material energy storage liquid cooling plate through heat-conducting glue, the phase-change energy storage liquid cooling plate and the module are connected with a temperature sensor, and the temperature sensor is connected with a battery management system through a control wire harness; the accelerator opening sensor, the brake opening sensor and the speed sensor are connected with the battery management system through control wiring harnesses; the battery management system controls the water pump and the control valve according to information transmitted by the sensor, so as to control the overall temperature rise of the battery pack and increase the consistency of the battery pack; the invention has the characteristics of high flexibility, good heat dissipation effect and strong adaptability."
+        ],
+        "zh": [
+          "本发明公开了一种相变储能液冷板、电池包主动热管理系统及控制方法，包括电池模组、温度传感器、相变储能液冷板、导热胶、电池管理系统、油门开度传感器、制动开度传感器、速度传感器、温度传感器控制线束、电源线束、其他传感器线束、控制阀控制线束、控制阀、水泵；电池模组与相变材料储能液冷板通过导热胶粘性连接，相变储能液冷板以及模组与温度传感器相连，温度传感器与电池管理系统通过控制线束相连；油门开度传感器、制动开度传感器、速度传感器与电池管理系统通过控制线束相连；电池管理系统根据传感器传来的信息，控制水泵以及控制阀，用以控制电池包的整体温升，增加电池包一致性；本发明具有灵活度高，散热效果好，适应性强的特点。"
+        ]
+      },
+      "app_date": {
+        "seconds": 1538006400
+      },
+      "app_kind": "A",
+      "app_num": "201811132449",
+      "applicant": [
+        {
+          "name": "江苏大学",
+          "sequence": 1
+        }
+      ],
+      "assignee": [
+        {
+          "name": "江苏大学",
+          "sequence": 1
+        }
+      ],
+      "auth_date": {
+        "seconds": 1627948800
+      },
+      "country": "cn",
+      "cpc": [
+        {
+          "l1": "Y",
+          "l2": "Y02",
+          "l3": "Y02E",
+          "l4": "Y02E60/10",
+          "raw": "Y02E60/10"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6556",
+          "raw": "H01M10/6556"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6567",
+          "raw": "H01M10/6567"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/625",
+          "raw": "H01M10/625"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M2220/20",
+          "raw": "H01M2220/20"
+        },
+        {
+          "l1": "Y",
+          "l2": "Y02",
+          "l3": "Y02T",
+          "l4": "Y02T10/70",
+          "raw": "Y02T10/70"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/635",
+          "raw": "H01M10/635"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/617",
+          "raw": "H01M10/617"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/613",
+          "raw": "H01M10/613"
+        }
+      ],
+      "id": "63ed22af04c6eefad4edb488",
+      "inventor": [
+        {
+          "name": "XU X",
+          "sequence": 1
+        },
+        {
+          "name": "TANG W",
+          "sequence": 2
+        },
+        {
+          "name": "SUN X",
+          "sequence": 3
+        },
+        {
+          "name": "HU D",
+          "sequence": 4
+        }
+      ],
+      "ipc": [
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/635"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/613"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/617"
+        },
+        {
+          "l1": "B",
+          "l2": "B60",
+          "l3": "B60L",
+          "l4": "B60L58/26"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6556"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/6567"
+        },
+        {
+          "l1": "H",
+          "l2": "H01",
+          "l3": "H01M",
+          "l4": "H01M10/625"
+        }
+      ],
+      "pct": {
+        "app_num": "CN201811132449A",
+        "pub_num": "CN109449528B"
+      },
+      "priority": [
+        {
+          "country": "cn",
+          "date": {
+            "seconds": 1537977600
+          },
+          "num": "201811132449"
+        }
+      ],
+      "pub_date": {
+        "seconds": 1627948800
+      },
+      "pub_kind": "B",
+      "pub_num": "109449528",
+      "reference": {
+        "paper_references": [
+          {
+            "raw_text": "The forced air cooling heat dissipation performance of different battery pack bottom duct;XiaoMing X等;《International jounal of energy research》;20180611;第43卷(第3期);第1133-1141页",
+            "sequence": 1
+          }
+        ],
+        "patent_references": [
+          {
+            "patent_office": "cn",
+            "raw_kind": "A",
+            "raw_number": "106654322",
+            "sequence": 1
+          }
+        ]
+      },
+      "title": {
+        "en": [
+          "Phase-change energy storage liquid cooling plate, battery pack active thermal management system and control method"
+        ],
+        "zh": [
+          "一种相变储能液冷板、电池包主动热管理系统及控制方法"
+        ]
+      }
+    }
+  ],
+  "log_id": "3J84xFMCGMLM0DuTZGBin4jV83X"
+}

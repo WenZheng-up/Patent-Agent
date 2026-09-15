@@ -1,0 +1,167 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6a074c2da0431c33887f2c48",
+      "title": null,
+      "title_zh": "一种溢香型多功能窗帘",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "沈轲"
+    },
+    {
+      "id": "6a074b3fa412a1d1767f1e4f",
+      "title": null,
+      "title_zh": "一种可拆洗枕套",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "沈轲"
+    },
+    {
+      "id": "6a074e822346525d447f5248",
+      "title": null,
+      "title_zh": "一种多功能空调毯",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "沈轲"
+    },
+    {
+      "id": "655d7ae6af7daec069e31acf",
+      "title": "Control method and terminal of central air conditioning system and central air conditioning system",
+      "title_zh": "中央空调系统的控制方法、终端及中央空调系统",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "冯耀忠"
+    },
+    {
+      "id": "655d8ae5a3e80a0836e32ab1",
+      "title": "Fault processing method and terminal of central air conditioning system and central air conditioning system",
+      "title_zh": "中央空调系统的故障处理方法、终端及中央空调系统",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "冯耀忠"
+    },
+    {
+      "id": "655d7a5e56ca27a7e2e31a36",
+      "title": "Control method, terminal and system of sludge drying system",
+      "title_zh": "污泥干化系统的控制方法、终端及系统",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "冯耀忠"
+    },
+    {
+      "id": "682aca14ac93d531135eb5cd",
+      "title": "DEVICE FOR PERFORMING NON-DESTRUCTIVE CONTROL OF A RAIL",
+      "title_zh": null,
+      "pub_year": "2024",
+      "app_year": "2022",
+      "inventor_name": "Marco Salciccia"
+    },
+    {
+      "id": "682ac4ea35def54cec5ea8f0",
+      "title": "DEVICE AND METHOD FOR PERFORMING NON-DESTRUCTIVE CONTROL OF A RAIL",
+      "title_zh": null,
+      "pub_year": "2024",
+      "app_year": "2022",
+      "inventor_name": "Marco Salciccia"
+    },
+    {
+      "id": "655da279d1e8ce8f80e33cda",
+      "title": "Pumping device for pumping viscous, pasty or            sticky fluid with bacterial growth in food industry,            has transmission device fixed to output shaft and to            helical rotor, and sleeve fixed to central part of            transmission device and mixing tool.",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "GROS DOMINIQUE"
+    },
+    {
+      "id": "68bed1230bc3a3da920daa7a",
+      "title": "Apparatus for detecting relative positioning information between rolls, and method for measuring roll alignment state by using same",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2019",
+      "inventor_name": "JEONG HONG SEOK"
+    },
+    {
+      "id": "68be6af93bc9f9c1a20d1bea",
+      "title": "Apparatus for detecting relative positioning information between rolls, and method for measuring roll alignment state by using same",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2019",
+      "inventor_name": "JEONG HONG SEOK"
+    },
+    {
+      "id": "68be5dcc44cd35b4f50d0938",
+      "title": null,
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2021",
+      "inventor_name": "KAGERER HANS-JÜRGEN"
+    },
+    {
+      "id": "6521305f508d138e11c1c5fa",
+      "title": "Preparation and use of anti-MET-and-RON bispecific antibody and antibody-drug conjugate thereof",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2021",
+      "inventor_name": "Ming-Hai Wang"
+    },
+    {
+      "id": "64b90926c45f4cc100881e3e",
+      "title": "Washable pillow inner",
+      "title_zh": "一种可水洗枕芯",
+      "pub_year": "2022",
+      "app_year": "2022",
+      "inventor_name": "曹馨文"
+    },
+    {
+      "id": "6765c4e592caf3662f935eb6",
+      "title": "Pumping device for pumping fluid, has processing            unit for determining difference between reference            temperature and temperature of elastomer portion and            delivering warning signal when determined difference is            greater than threshold.",
+      "title_zh": null,
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "GAUVRIT R G"
+    },
+    {
+      "id": "63746c786db33adc789cdb33",
+      "title": "Mosquito repellent function detection device",
+      "title_zh": "一种驱蚊功能检测装置",
+      "pub_year": "2022",
+      "app_year": "2021",
+      "inventor_name": "任登辉"
+    },
+    {
+      "id": "66f12eec7e342a755db76719",
+      "title": "Bacteriostatic mask with probiotics microcapsule            for protecting respiratory tract, has replacing            non-woven fabric whose top end and bottom end are            symmetrically and fixedly connected with metal soft            sheet.",
+      "title_zh": "一种具有益生菌微胶囊的抑菌口罩",
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "沈轲"
+    },
+    {
+      "id": "6765c39e30622bec6993576f",
+      "title": "Pumping device for use in container filling plant            in e.g. food industry, has processing unit for            comparing temperature measured with threshold and            generating warning signal when temperature is higher            than threshold.",
+      "title_zh": null,
+      "pub_year": "2024",
+      "app_year": "2023",
+      "inventor_name": "GAUVRIT R G"
+    },
+    {
+      "id": "68beaa7f687f825fd30d7562",
+      "title": "A twin wall structure using a PC panel and method for manufacturing of it",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "KIM SUNG WOO"
+    },
+    {
+      "id": "64df2900fa9f230a317f47ae",
+      "title": "Device for performing non/destructive control of a rail",
+      "title_zh": null,
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "SALCICCIA MARCO"
+    }
+  ]
+}

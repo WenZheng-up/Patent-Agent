@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "success": true,
+  "msg": "",
+  "data": [
+    {
+      "app_num": "202080064114",
+      "app_year": "2020",
+      "country": "cn",
+      "id": "63365538ecab480b2eff0a02",
+      "inventor": [
+        {
+          "name": "J·I·蒂耶斯尼奇",
+          "sequence": 1
+        }
+      ],
+      "pub_kind": "A",
+      "pub_num": "114729259",
+      "pub_year": "2022",
+      "title": {
+        "en": [
+          "Flexible phase change material"
+        ],
+        "zh": [
+          "柔性相变材料"
+        ]
+      }
+    }
+  ],
+  "log_id": "3J84MtsNT2jeD4zTJ2C48jGs8Wl"
+}

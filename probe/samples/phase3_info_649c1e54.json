@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "success": true,
+  "msg": "",
+  "data": [
+    {
+      "app_num": "202222905683",
+      "app_year": "2022",
+      "country": "cn",
+      "id": "649c1e54cf33da7833f4466b",
+      "inventor": [
+        {
+          "name": "陈良杰",
+          "sequence": 1
+        }
+      ],
+      "pub_kind": "U",
+      "pub_num": "218857643",
+      "pub_year": "2023",
+      "title": {
+        "en": [
+          "Phase change material extrusion device"
+        ],
+        "zh": [
+          "一种相变材料挤出装置"
+        ]
+      }
+    }
+  ],
+  "log_id": "3J84MxseGG9xaUpOaUGPXlFTie9"
+}

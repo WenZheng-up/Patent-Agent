@@ -1,0 +1,241 @@
+{
+  "top_microchannel": {
+    "id": "6a07460e38b6d5c2a27ec408",
+    "keys": [
+      "abstract",
+      "app_date",
+      "app_num",
+      "claims",
+      "country",
+      "description",
+      "id",
+      "inventor",
+      "ipcr",
+      "pub_date",
+      "pub_kind",
+      "pub_num",
+      "title"
+    ],
+    "pub_num": "202511487170",
+    "pub_kind": "A",
+    "country": "cn",
+    "title": [
+      "一种相变材料与微通道液冷复合的锂电池强化散热装置"
+    ],
+    "app_num": "121355455",
+    "app_date": {
+      "seconds": 1760659200
+    },
+    "pub_date": {
+      "seconds": 1768521600
+    },
+    "assignee": null,
+    "abstract_n": 1,
+    "desc_n": 49,
+    "desc_chars": 4880,
+    "claims_n": 6,
+    "ipcr": [
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/613"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/659"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/6567"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/653"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/617"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/6556"
+      },
+      {
+        "l1": "H",
+        "l2": "HH01",
+        "l3": "HH01H01M",
+        "l4": "HH01H01M10/6554"
+      }
+    ],
+    "bracket_numbered": [],
+    "head": [
+      "技术领域",
+      "本发明属于锂电池高温散热领域，特别涉及一种相变材料与微通道液冷复合的锂电池强化散热装置。",
+      "背景技术",
+      "锂离子电池因其能量密度高、循环寿命长、功率承载能力强、自放电率低等优点，已成为当前动力与储能领域的主流能源，被广泛应用于",
+      "针对锂离子电池在工作过程中产生的热量，目前常见的电池热管理系统（BTMS）主要包括空气冷却、液体冷却和相变材料（PCM）",
+      "目前，大多数研究仍集中于中等放电倍率（3C）及室温条件下的电池性能分析，而在高放电倍率和极端温度环境下，如何有效降低电池",
+      "发明内容",
+      "本发明的目的在于提供一种相变材料与微通道液冷复合的锂电池强化散热装置，能够在高放电倍率和极端温度条件降低电池组温度和提高"
+    ]
+  },
+  "dup_title_a": {
+    "id": "6335e013667297566c1a99df",
+    "keys": [
+      "abstract",
+      "app_date",
+      "app_kind",
+      "app_num",
+      "applicant",
+      "assignee",
+      "auth_date",
+      "auth_num",
+      "country",
+      "cpc",
+      "description",
+      "id",
+      "inventor",
+      "ipc",
+      "ipcr",
+      "pct",
+      "priority",
+      "pub_date",
+      "pub_kind",
+      "pub_num",
+      "reference",
+      "title"
+    ],
+    "pub_num": "109449528",
+    "pub_kind": "A",
+    "country": "cn",
+    "title": [
+      "一种相变储能液冷板、电池包主动热管理系统及控制方法"
+    ],
+    "app_num": "201811132449",
+    "app_date": {
+      "seconds": 1537977600
+    },
+    "pub_date": {
+      "seconds": 1551974400
+    },
+    "assignee": [
+      {
+        "name": "UNIV JIANGSU",
+        "sequence": 1
+      }
+    ],
+    "abstract_n": 1,
+    "desc_n": 1,
+    "desc_chars": 10013,
+    "claims_n": 0,
+    "ipcr": [
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/613"
+      },
+      {
+        "l1": "B",
+        "l2": "B60",
+        "l3": "B60L",
+        "l4": "B60L58/26"
+      },
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/617"
+      },
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/625"
+      },
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/635"
+      },
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/6556"
+      },
+      {
+        "l1": "H",
+        "l2": "H01",
+        "l3": "H01M",
+        "l4": "H01M10/6567"
+      }
+    ],
+    "bracket_numbered": [],
+    "head": [
+      "技术领域 本发明涉及轨道交通电池模组散热的技术领域，具体涉及一种相变储能液冷板、 电池包主动热管理系统及控制方法。 背景"
+    ]
+  },
+  "dup_title_b": {
+    "id": "63ed22af04c6eefad4edb488",
+    "keys": [
+      "abstract",
+      "app_date",
+      "app_kind",
+      "app_num",
+      "applicant",
+      "assignee",
+      "auth_date",
+      "country",
+      "cpc",
+      "id",
+      "inventor",
+      "ipc",
+      "pct",
+      "priority",
+      "pub_date",
+      "pub_kind",
+      "pub_num",
+      "reference",
+      "title"
+    ],
+    "pub_num": "109449528",
+    "pub_kind": "B",
+    "country": "cn",
+    "title": [
+      "一种相变储能液冷板、电池包主动热管理系统及控制方法"
+    ],
+    "app_num": "201811132449",
+    "app_date": {
+      "seconds": 1538006400
+    },
+    "pub_date": {
+      "seconds": 1627948800
+    },
+    "assignee": [
+      {
+        "name": "江苏大学",
+        "sequence": 1
+      }
+    ],
+    "abstract_n": 1,
+    "desc_n": 0,
+    "desc_chars": 0,
+    "claims_n": 0,
+    "ipcr": null,
+    "bracket_numbered": [],
+    "head": []
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "status": 0,
+  "data": [
+    {
+      "id": "6a074c3b4056542e917f2d30",
+      "title": null,
+      "title_zh": "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "丁雁"
+    },
+    {
+      "id": "6a0748b7e3842259137ef27b",
+      "title": null,
+      "title_zh": "一种基于双层相变材料和液冷板复合的动力电池热管理装置",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "斯林军"
+    },
+    {
+      "id": "6a074671511ebd61c77ecb2a",
+      "title": null,
+      "title_zh": "拓扑液冷板耦合相变材料电池热管理系统优化方法及系统",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "丁雁"
+    },
+    {
+      "id": "66bdafa0872314981b9c2859",
+      "title": "Power battery thermal management device based on            phase change material and grid-shaped fin liquid            cooling plate, has battery orderly arranged in middle            of battery box body along thickness direction, and            grid-shaped fin embedded in phase change material but            not contacted with battery.",
+      "title_zh": "一种基于相变材料和网格状翅片液冷板的动力电池热管理装置",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "杨化超"
+    },
+    {
+      "id": "64df249cc555aedc927f3ee7",
+      "title": "Novel indirect contact type phase change material coupling fin tube battery liquid cooling plate heat dissipation device",
+      "title_zh": "一种新型的间接接触式相变材料耦合鳍片管的电池液冷板散热装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "张文骏"
+    },
+    {
+      "id": "644131136c95a9e2faade475",
+      "title": "Novel battery liquid cooling plate heat dissipation device of indirect contact type phase change material coupling finned tube",
+      "title_zh": "一种新型的间接接触式相变材料耦合鳍片管的电池液冷板散热装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "张文骏"
+    },
+    {
+      "id": "6a07489338b6d5c2a27eefc9",
+      "title": null,
+      "title_zh": "一种延缓热扩散液冷板系统及用电设备",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "冯睿"
+    },
+    {
+      "id": "6a074ca1511ebd61c77f34b4",
+      "title": null,
+      "title_zh": "一种双层储能电池用液冷板",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "陈荣"
+    },
+    {
+      "id": "644156136c95a9e2faae7679",
+      "title": "Battery thermal management device of composite phase change material plate coupling liquid cooling",
+      "title_zh": "一种复合相变材料板耦合液冷的电池热管理装置",
+      "pub_year": "2023",
+      "app_year": "2022",
+      "inventor_name": "陈友鹏"
+    },
+    {
+      "id": "676a88bc17338b69543eb927",
+      "title": "Liquid cooling plate for phase change medium used            in high power density battery system, has cold plate            whose top part is symmetrically provided with inlet and            outlet and heat exchange flow passage, where first,            second and third flow passages are symmetrically            fixed.",
+      "title_zh": "一种用于相变介质的液冷板",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "周衡"
+    },
+    {
+      "id": "6a074db5b6d80560397f457e",
+      "title": null,
+      "title_zh": "复合均热液冷板及工作方法、电池热管理系统",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "许伟刚"
+    },
+    {
+      "id": "65a5556e22f6ef170e79ced5",
+      "title": "Battery thermal management device based on            liquid-cooled phase-change material composite cold            plate in electric vehicle, has liquid cooling pipe            inserted into phase change material and filled with            coolant, and ultra-thin phase change material layer            formed between pipe and refrigerating plate frame.",
+      "title_zh": "基于液冷相变材料复合冷板的电池热管理装置及其控制方法",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "黄宇刚"
+    },
+    {
+      "id": "67a73834f7d6c26326a4422b",
+      "title": "Liquid cooling plate with phase change uniform            conducting layer for heat dissipation of new energy            vehicles and energy storage systems, has annular            interlayer that is filled with phase-change material            between inner plate and hollow outer plate.",
+      "title_zh": "一种带相变均导层的液冷板",
+      "pub_year": "2024",
+      "app_year": "2024",
+      "inventor_name": "陈荣"
+    },
+    {
+      "id": "6a07466ad14ade25717ecac0",
+      "title": null,
+      "title_zh": "一种双通道蛇形冷板耦合相变材料电池热管理系统",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "陈凯"
+    },
+    {
+      "id": "6a07460e38b6d5c2a27ec408",
+      "title": null,
+      "title_zh": "一种相变材料与微通道液冷复合的锂电池强化散热装置",
+      "pub_year": "2026",
+      "app_year": "2025",
+      "inventor_name": "姚碧波"
+    },
+    {
+      "id": "65a55d6af8e9b69ff979da3e",
+      "title": "Phase change energy storage module, has            solid-solid phase change material filled in            copper-based outer envelope, and mounting terminal            welded to end of outer envelope and sealing envelope,            where mounting terminal is provided with mounting            hole.",
+      "title_zh": "一种相变储能模块及液冷板",
+      "pub_year": "2023",
+      "app_year": "2023",
+      "inventor_name": "孙涵瑞"
+    },
+    {
+      "id": "6a0749096cfd79d4157ef77c",
+      "title": null,
+      "title_zh": "一种基于3D打印金属材料的高精度液冷板及其制备工艺",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "陈晓光"
+    },
+    {
+      "id": "682acf5e87730e1b675ec35b",
+      "title": null,
+      "title_zh": "一种用于电池模块热管理的相变液冷板",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "柴祥"
+    },
+    {
+      "id": "682ad17d6b0bb97add5ec945",
+      "title": null,
+      "title_zh": "一种电池组及相变材料耦合液冷复合热管理系统",
+      "pub_year": "2025",
+      "app_year": "2024",
+      "inventor_name": "周昊"
+    },
+    {
+      "id": "6a074e49086b08101c7f4f13",
+      "title": null,
+      "title_zh": "复合式冷板-相变蓄冷耦合的液冷服务器散热装置",
+      "pub_year": "2025",
+      "app_year": "2025",
+      "inventor_name": "周恩伟"
+    }
+  ]
+}
