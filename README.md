@@ -241,6 +241,15 @@ Agent 运行时本身就是这个项目的技术主角。引入框架会把最�
 
 FastAPI 同构托管四页原生 Web 控制台（零 Node 构建链）：工作台（案件看板）→ 案件详情（检索式 HITL 审批 + 实时 Agent 事件流）→ 对比分析（claim chart / X·Y·A 分级 / 段落引文）→ 查新报告（A4 打印友好，AI 初筛 + 代理师复核制）。
 
+以下为本地真实运行截图（演示案件，非 mock 静态页）：
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="./assets/screenshots/01-dashboard.png" alt="工作台 · 案件看板"/><br/><sub>工作台：案件看板、状态统计与检索进度</sub></td>
+<td width="50%" align="center"><img src="./assets/screenshots/02-query-approval.png" alt="案件详情 · HITL 检索式审批"/><br/><sub>案件详情：交底书三要素、CNF 检索式 HITL 审批与 Agent 运行时事件流</sub></td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 快速开始
